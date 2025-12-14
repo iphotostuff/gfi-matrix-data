@@ -1,0 +1,256 @@
+{
+  "Justice in the World": {
+    "Poverty & Economic Inequality": [
+      "Economic Disorder",
+      "Economic Justice",
+      "Economic Order",
+      "Stewardship"
+    ],
+    "Health, Care & Vulnerability": [
+      "Health and Justice"
+    ],
+    "War, Peace & Conflict": [
+      "Peace, Peacemaking",
+      "Shalom/Peace"
+    ],
+    "Rights, Law & Protection": [
+      "Biblical Foundations of Justice",
+      "Biblical Understanding of Justice",
+      "Duties and Obligations",
+      "First-Order Justice",
+      "Forms of Injustice",
+      "Global South, Justice in",
+      "Justice in Science & Technology",
+      "Justice in the Disciplines",
+      "Linguistic Justice",
+      "Mishpat/Judgment",
+      "Practical advice on the scholarly pursuit of justice",
+      "Promoting Justice",
+      "Restorative Justice",
+      "Righteousness",
+      "Rights",
+      "Second-Order Justice",
+      "Sexual Justice",
+      "Sites of Justice",
+      "The relationship between justice and the academy",
+      "Theologies of Justice",
+      "Varieties of Justice"
+    ],
+    "Peoples, Places & Global Inequality": [
+      "Peoples and Places",
+      "Universities in the Global South"
+    ],
+    "Love, Mercy & Restoration": [
+      "Love",
+      "Mercy"
+    ],
+    "Institutions & Systems of Justice": [
+      "The role of interdisciplinary research"
+    ],
+    "Scholarly Lenses & Foundations (Review)": [
+      "Plato",
+      "Ulpian"
+    ]
+  },
+  "Human Dignity & the Person": {
+    "Human Worth & Dignity": [
+      "Dignity"
+    ],
+    "Disability, Aging & Dependency": [],
+    "Health, Mental Life & Suffering": [],
+    "Family, Sexuality & Intimacy": [
+      "Sexual Justice"
+    ],
+    "Education & Formation": [],
+    "Life, Death & Care": [],
+    "Scholarly Lenses & Foundations (Review)": []
+  },
+  "Society, Politics & Power": {
+    "Law, Authority & Governance": [
+      "Beneficial Disorder",
+      "Difficulties in Discerning Moral Order",
+      "Difficulties in Promoting Social Order",
+      "Discerning Moral Order",
+      "Discerning Moral Order in Practice",
+      "Disorder",
+      "Disrupting the Political Order",
+      "Disrupting the Social Order",
+      "International Organizations and Governance",
+      "Living with Disorder",
+      "Moral Law in Practice",
+      "Order and Contemporary Issues",
+      "Order and Postmodernism",
+      "Promoting Order",
+      "Social Disorder",
+      "The Source of Moral Order"
+    ],
+    "Democracy & Civic Life": [
+      "Political Philosophies"
+    ],
+    "Freedom, Rights & Speech": [
+      "Order and Freedom",
+      "Order, Freedom, and Creativity"
+    ],
+    "Markets, Power & Institutions": [
+      "Economic Disorder",
+      "Economic Order",
+      "First-Order Justice",
+      "Second-Order Justice"
+    ],
+    "Technology, Surveillance & Control": [
+      "Order and Artificial Intelligence"
+    ],
+    "Global Order & Geopolitics": [
+      "Ecological Disorder",
+      "International Order",
+      "Order and Ecology"
+    ],
+    "Scholarly Lenses & Foundations (Review)": [
+      "Created Order and Naturalism",
+      "Created Order as the Grounds for Science",
+      "Created Order in Classical Traditions",
+      "Created Order in the Christian Tradition",
+      "Created Order in the Disciplines",
+      "Order and Health",
+      "Order and Quantum Mechanics",
+      "Order in Creation",
+      "Order in the Arts and Literature",
+      "Political Disorder",
+      "Psychological Disorder",
+      "The Bible and Moral Order"
+    ]
+  },
+  "Creation, Science & Technology": {
+    "Created Order & the Natural World": [
+      "Beneficial Disorder",
+      "Created Order and Naturalism",
+      "Created Order as the Grounds for Science",
+      "Created Order in Classical Traditions",
+      "Created Order in the Christian Tradition",
+      "Created Order in the Disciplines",
+      "Creation and the Nature of God",
+      "Difficulties in Discerning Moral Order",
+      "Difficulties in Promoting Social Order",
+      "Discerning Moral Order",
+      "Discerning Moral Order in Practice",
+      "Disorder",
+      "Disrupting the Political Order",
+      "Disrupting the Social Order",
+      "Ecological Disorder",
+      "Economic Disorder",
+      "Economic Order",
+      "Hierarchies",
+      "Human Nature and Human Flourishing",
+      "International Order",
+      "Living with Disorder",
+      "New Testament",
+      "Old Testament",
+      "Order and Artificial Intelligence",
+      "Order and Contemporary Issues",
+      "Order and Ecology",
+      "Order and Freedom",
+      "Order and Health",
+      "Order and Postmodernism",
+      "Order and Quantum Mechanics",
+      "Order in Creation",
+      "Order in the Arts and Literature",
+      "Order, Freedom, and Creativity",
+      "Other Cognates",
+      "Political Disorder",
+      "Promoting Order",
+      "Psychological Disorder",
+      "Responding to Evil",
+      "Salvation",
+      "Sin",
+      "Social Disorder",
+      "The Bible and Moral Order",
+      "The Source of Moral Order",
+      "Worship"
+    ],
+    "Science, Knowledge & Explanation": [
+      "Justice in Science & Technology",
+      "Pursuing Truth",
+      "Pursuing Truth in Community"
+    ],
+    "Technology & Human Flourishing": [
+      "Human Flourishing",
+      "Music"
+    ],
+    "Medicine, Biology & Life Sciences": [],
+    "Environment, Climate & Sustainability": [],
+    "Digital Life & Artificial Intelligence": [],
+    "Scholarly Lenses & Foundations (Review)": []
+  },
+  "Moral Formation & Virtue": {
+    "Virtue, Character & Habit": [
+      "Academic Virtues",
+      "Academic Virtues: Humility",
+      "Creational Goods and Moral Commands",
+      "Virtues"
+    ],
+    "Moral Education & Teaching": [],
+    "Practices, Institutions & Formation": [
+      "Difficulties in Discerning Moral Order",
+      "Discerning Moral Order",
+      "Discerning Moral Order in Practice",
+      "Moral Law in Practice",
+      "The Source of Moral Order"
+    ],
+    "Language, Imagination & Meaning": [
+      "The Bible and Moral Order"
+    ],
+    "Vocation, Work & Calling": [],
+    "Scholarly Lenses & Foundations (Review)": []
+  },
+  "Theology & Public Witness": {
+    "Biblical Foundations": [
+      "Biblical Foundations of Justice",
+      "Biblical Understanding of Justice",
+      "Love",
+      "Mercy",
+      "Mishpat/Judgment",
+      "Music",
+      "New Testament",
+      "Old Testament",
+      "Righteousness",
+      "Worship"
+    ],
+    "Christian Social Thought": [
+      "Human Flourishing",
+      "Human Nature and Human Flourishing",
+      "Peoples and Places",
+      "Universities in the Global South"
+    ],
+    "Natural Law & Moral Reasoning": [
+      "Aquinas, Thomas",
+      "Duties and Obligations",
+      "The duty and calling of Christian academics"
+    ],
+    "Church, State & Public Life": [
+      "Christians and the Secular Academy",
+      "Pursuing Truth",
+      "Pursuing Truth in Community"
+    ],
+    "Tradition, History & Interpretation": [
+      "Aristotle",
+      "Augustine",
+      "Christian Tradition",
+      "Classical Tradition",
+      "Created Order in Classical Traditions",
+      "Created Order in the Christian Tradition",
+      "Creation and the Nature of God",
+      "Hierarchies",
+      "Other Cognates",
+      "Plato",
+      "Ulpian"
+    ],
+    "Hope, Eschatology & Public Faith": [
+      "Responding to Evil",
+      "Salvation",
+      "Sin"
+    ],
+    "Scholarly Lenses & Foundations (Review)": [
+      "The role of interdisciplinary research"
+    ]
+  }
+}
