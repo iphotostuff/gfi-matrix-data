@@ -4,7 +4,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/11",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=11",
     "matrixLabel": "Justice | Theology Brief Preview Justice\n\n - Nicholas Wolterstorff",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Preview",
     "title": "Justice",
@@ -24,7 +24,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/99",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=99",
     "matrixLabel": "Justice | Theology Brief Justice and Rights\n\n - Nicholas Wolterstorff",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief",
     "title": "Justice and Rights",
@@ -44,7 +44,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/210",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=210",
     "matrixLabel": "Justice | Theology Brief Postscript Justice\n\n - Nicholas Wolterstorff",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Postscript",
     "title": "Justice",
@@ -64,7 +64,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/177",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=177",
     "matrixLabel": "Justice | Architecture | Disciplinary Brief Justice, Rights and the Quest to Reduce the Risk of Disasters  \n\n - Ian Robert Davis",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -86,7 +86,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/160",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=160",
     "matrixLabel": "Justice | Engineering, Physical & Biological Sciences | Disciplinary Brief Doing Justice to Nature in Science\n\n - Ian Hutchinson",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Engineering",
       "Physical & Biological Sciences"
@@ -109,7 +109,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/175",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=175",
     "matrixLabel": "Justice | Humanities, Public Policy | Disciplinary Brief Economic justice and the politics of redistribution\n\n - Peter Sloman",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities",
       "Public Policy"
@@ -132,7 +132,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/183",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=183",
     "matrixLabel": "Justice | Social Sciences, Humanities | Disciplinary Brief Linguistic Justice\n\n - Allan Bell",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences",
       "Humanities"
@@ -155,7 +155,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/171",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=171",
     "matrixLabel": "Justice | Humanities | Disciplinary Brief Love as the Foundation for Christian Justice\n\n - Osam Temple",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -177,7 +177,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/165",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=165",
     "matrixLabel": "Justice | Law | Disciplinary Brief Justice in Academic Publishing and the Academic Calling: A Perspective from the Global South\n\n - Dinesha Samararatne",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -199,7 +199,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/169",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=169",
     "matrixLabel": "Justice | Law, Social Sciences | Disciplinary Brief Justice in Transnational Legal Orders \n\n - Terence C. Halliday",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -222,7 +222,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/182",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=182",
     "matrixLabel": "Justice | Law | Disciplinary Brief Justice, Judgment and Virtue in the Law\n\n - Nicholas Aroney",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -244,7 +244,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/170",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=170",
     "matrixLabel": "Justice | Law | Disciplinary Brief Justice, Rights and Family Relationships\n\n - Patrick Parkinson",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -266,7 +266,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/160",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=160",
     "matrixLabel": "Justice | Engineering, Physical & Biological Sciences | Disciplinary Brief Doing Justice to Nature in Science\n\n - Ian Hutchinson",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Engineering",
       "Physical & Biological Sciences"
@@ -289,7 +289,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/196",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=196",
     "matrixLabel": "Justice | Public Health, Social Sciences | Disciplinary Brief Justice and Public Health\n\n - Tyler VanderWeele",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Public Health",
       "Social Sciences"
@@ -312,7 +312,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/175",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=175",
     "matrixLabel": "Justice | Humanities, Public Policy | Disciplinary Brief Economic justice and the politics of redistribution\n\n - Peter Sloman",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities",
       "Public Policy"
@@ -335,7 +335,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/167",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=167",
     "matrixLabel": "Justice | Social Sciences | Disciplinary Brief Atrocities, Accountability and Reconciliation: The Pursuit of Justice in International Relations \n\n - Cecilia Jacob",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -357,7 +357,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/195",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=195",
     "matrixLabel": "Justice | Social Sciences | Disciplinary Brief Climate Change Justice\n\n - Donald Hay\n, Gordon Menzies",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -381,7 +381,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/176",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=176",
     "matrixLabel": "Justice | Social Sciences | Disciplinary Brief Doing Justice to the Past: Histories of Rights, Memories of Injustice\n\n - John Coffey",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -403,7 +403,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/196",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=196",
     "matrixLabel": "Justice | Public Health, Social Sciences | Disciplinary Brief Justice and Public Health\n\n - Tyler VanderWeele",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Public Health",
       "Social Sciences"
@@ -426,7 +426,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/180",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=180",
     "matrixLabel": "Justice | Social Sciences | Disciplinary Brief Justice in International Relations: Vaccine Nationalism during COVID-19\n\n - Benjamin Day",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -448,7 +448,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/169",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=169",
     "matrixLabel": "Justice | Law, Social Sciences | Disciplinary Brief Justice in Transnational Legal Orders \n\n - Terence C. Halliday",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -471,7 +471,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/183",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=183",
     "matrixLabel": "Justice | Social Sciences, Humanities | Disciplinary Brief Linguistic Justice\n\n - Allan Bell",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences",
       "Humanities"
@@ -494,7 +494,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/174",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=174",
     "matrixLabel": "Justice | Social Sciences | Disciplinary Brief Restorative Justice\n\n - Chris Marshall",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -516,7 +516,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/173",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=173",
     "matrixLabel": "Justice | Social Sciences | Disciplinary Brief Two thoughts on justice, rights, and the academy\n\n - Luke Glanville",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -538,7 +538,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/161",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=161",
     "matrixLabel": "Justice | Theology | Disciplinary Brief A Contextual Interpretation of Justice and Righteousness by a Biblical Theologian\n\n - K. K. Yeo",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -560,7 +560,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/158",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=158",
     "matrixLabel": "Justice | Theology | Disciplinary Brief From Individual Entitlements to Collective Excellences: The Obligations of Justice for Colombia’s Displaced Persons\n\n - Christopher Hays",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -582,7 +582,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/168",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=168",
     "matrixLabel": "Justice | Theology | Disciplinary Brief The Justice of God\n\n - Brendan Case",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -604,7 +604,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/164",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=164",
     "matrixLabel": "Justice | Theology | Disciplinary Brief What is Justice?\n\n - Thomas Joseph White",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -626,7 +626,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/172",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=172",
     "matrixLabel": "Justice | Engineering | Disciplinary Note Justice and Space-Based Communication Architectures\n\n - Daniel Hastings",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Engineering"
     ],
@@ -648,7 +648,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/181",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=181",
     "matrixLabel": "Justice | Humanities | Disciplinary Note Epistemic Injustice\n\n - Carlos Miguel Gomez",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -670,7 +670,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/179",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=179",
     "matrixLabel": "Justice | Humanities | Disciplinary Note Justice and Trust in Interdisciplinary Research\n\n - Claudia Vanney",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -692,7 +692,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/185",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=185",
     "matrixLabel": "Justice | Law | Disciplinary Note Justice, Market Failures, and Government Agency Rulemaking \n\n - Alex Lee",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -714,7 +714,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/166",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=166",
     "matrixLabel": "Justice | Law | Disciplinary Note Sexual Violence and Sexual Dignity\n\n - Anna High",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -736,7 +736,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/162",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=162",
     "matrixLabel": "Justice | Medicine | Disciplinary Note Justice, Rights and Psychiatry\n\n - John R. Peteet",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -758,7 +758,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/268",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=268",
     "matrixLabel": "Justice | Architecture | Preview Response Kyle Dugdale",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -780,7 +780,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/269",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=269",
     "matrixLabel": "Justice | Architecture | Preview Response Philip Bess",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -802,7 +802,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/259",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=259",
     "matrixLabel": "Justice | Engineering | Preview Response Daniel Hastings",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Engineering"
     ],
@@ -824,7 +824,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/267",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=267",
     "matrixLabel": "Justice | Fine & Performing Arts | Preview Response Daniel Chua",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Fine & Performing Arts"
     ],
@@ -846,7 +846,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/237",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=237",
     "matrixLabel": "Justice | Humanities | Preview Response Dorothy Oluwagbemi-Jacob",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -868,7 +868,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/238",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=238",
     "matrixLabel": "Justice | Humanities | Preview Response Casey Strine",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -890,7 +890,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/239",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=239",
     "matrixLabel": "Justice | Humanities | Preview Response Eleonore Stump",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -912,7 +912,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/232",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=232",
     "matrixLabel": "Justice | Humanities | Preview Response John Coffey",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -934,7 +934,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/240",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=240",
     "matrixLabel": "Justice | Humanities | Preview Response Osam Temple",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -956,7 +956,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/233",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=233",
     "matrixLabel": "Justice | Humanities | Preview Response Christopher Watkin",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -978,7 +978,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/234",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=234",
     "matrixLabel": "Justice | Humanities | Preview Response Joy Pachuau",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1000,7 +1000,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/235",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=235",
     "matrixLabel": "Justice | Humanities | Preview Response Peter Anstey",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1022,7 +1022,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/236",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=236",
     "matrixLabel": "Justice | Humanities | Preview Response Allan Bell",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1044,7 +1044,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/229",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=229",
     "matrixLabel": "Justice | Law | Preview Response Nicholas Aroney",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1066,7 +1066,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/230",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=230",
     "matrixLabel": "Justice | Law | Preview Response Dinesha Samararatne",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1088,7 +1088,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/231",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=231",
     "matrixLabel": "Justice | Law | Preview Response Anna High",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1110,7 +1110,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/225",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=225",
     "matrixLabel": "Justice | Law | Preview Response Benny  Tai Yiu Ting (戴耀廷)",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1132,7 +1132,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/226",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=226",
     "matrixLabel": "Justice | Law | Preview Response Jide Okechuku Nzelibe",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1154,7 +1154,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/227",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=227",
     "matrixLabel": "Justice | Law | Preview Response María Carmelina Londoño",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1176,7 +1176,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/228",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=228",
     "matrixLabel": "Justice | Law | Preview Response Karen  Kong (江嘉恩)",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1198,7 +1198,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/249",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=249",
     "matrixLabel": "Justice | Social Sciences, Law | Preview Response Karen Man Yee  Lee",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences",
       "Law"
@@ -1221,7 +1221,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/258",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=258",
     "matrixLabel": "Justice | Law, Social Sciences | Preview Response Terence C. Halliday",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -1244,7 +1244,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/264",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=264",
     "matrixLabel": "Justice | Medicine | Preview Response John R. Peteet",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -1266,7 +1266,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/265",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=265",
     "matrixLabel": "Justice | Medicine | Preview Response Lydia Dugdale",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -1288,7 +1288,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/260",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=260",
     "matrixLabel": "Justice | Physical & Biological Sciences | Preview Response Jeff Hardin",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -1310,7 +1310,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/261",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=261",
     "matrixLabel": "Justice | Physical & Biological Sciences | Preview Response Ian Hutchinson",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -1332,7 +1332,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/262",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=262",
     "matrixLabel": "Justice | Physical & Biological Sciences | Preview Response Ross McKenzie",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -1354,7 +1354,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/263",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=263",
     "matrixLabel": "Justice | Physical & Biological Sciences | Preview Response Thomas Chacko",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -1376,7 +1376,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/266",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=266",
     "matrixLabel": "Justice | Public Health | Preview Response Tyler VanderWeele",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Public Health"
     ],
@@ -1398,7 +1398,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/252",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=252",
     "matrixLabel": "Justice | Social Sciences | Preview Response Judy Dean",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1420,7 +1420,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/253",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=253",
     "matrixLabel": "Justice | Social Sciences | Preview Response Emily Burdett",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1442,7 +1442,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/247",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=247",
     "matrixLabel": "Justice | Social Sciences | Preview Response Luke Glanville",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1464,7 +1464,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/254",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=254",
     "matrixLabel": "Justice | Social Sciences | Preview Response Chris Marshall",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1486,7 +1486,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/248",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=248",
     "matrixLabel": "Justice | Social Sciences | Preview Response Robert Joustra",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1508,7 +1508,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/255",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=255",
     "matrixLabel": "Justice | Social Sciences | Preview Response Erin Goheen Glanville",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1530,7 +1530,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/256",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=256",
     "matrixLabel": "Justice | Social Sciences | Preview Response Donald Hay",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1552,7 +1552,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/257",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=257",
     "matrixLabel": "Justice | Social Sciences | Preview Response Emily Messer",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1574,7 +1574,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/250",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=250",
     "matrixLabel": "Justice | Social Sciences | Preview Response Peter Sloman",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1596,7 +1596,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/251",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=251",
     "matrixLabel": "Justice | Social Sciences | Preview Response Gordon Menzies",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -1618,7 +1618,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/249",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=249",
     "matrixLabel": "Justice | Social Sciences, Law | Preview Response Karen Man Yee  Lee",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Social Sciences",
       "Law"
@@ -1641,7 +1641,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/258",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=258",
     "matrixLabel": "Justice | Law, Social Sciences | Preview Response Terence C. Halliday",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -1664,7 +1664,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/245",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=245",
     "matrixLabel": "Justice | Theology | Preview Response Jennifer Herdt",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -1686,7 +1686,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/246",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=246",
     "matrixLabel": "Justice | Theology | Preview Response Ryan McAnnally-Linz",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -1708,7 +1708,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/241",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=241",
     "matrixLabel": "Justice | Theology | Preview Response Christopher Hays",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -1730,7 +1730,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/242",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=242",
     "matrixLabel": "Justice | Theology | Preview Response Oliver O’Donovan",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -1752,7 +1752,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/243",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=243",
     "matrixLabel": "Justice | Theology | Preview Response Jonathan Brant",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -1774,7 +1774,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/244",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=244",
     "matrixLabel": "Justice | Theology | Preview Response K. K. Yeo",
-    "theologyTheme": "Justice",
+    "dialogue": "Justice",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -1796,7 +1796,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/105",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=105",
     "matrixLabel": "Flourishing | Theology Brief Preview Flourishing\n\n - Miroslav Volf\n, Matthew Croasmun\n, Ryan McAnnally-Linz",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Preview",
     "title": "Flourishing",
@@ -1820,7 +1820,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/270",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=270",
     "matrixLabel": "Flourishing | Architecture | Preview Response Ian Robert Davis",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -1842,7 +1842,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/271",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=271",
     "matrixLabel": "Flourishing | Architecture | Preview Response Philip Bess",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -1864,7 +1864,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/272",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=272",
     "matrixLabel": "Flourishing | Architecture | Preview Response Kyle Dugdale",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -1886,7 +1886,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/283",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=283",
     "matrixLabel": "Flourishing | Humanities | Preview Response Nicholas Wolterstorff",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1908,7 +1908,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/284",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=284",
     "matrixLabel": "Flourishing | Humanities | Preview Response Christopher Watkin",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1930,7 +1930,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/285",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=285",
     "matrixLabel": "Flourishing | Humanities | Preview Response Dorothy Oluwagbemi-Jacob",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1952,7 +1952,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/286",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=286",
     "matrixLabel": "Flourishing | Humanities | Preview Response Carlos Miguel Gomez",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -1974,7 +1974,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/287",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=287",
     "matrixLabel": "Flourishing | Law | Preview Response Anna High",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -1996,7 +1996,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/288",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=288",
     "matrixLabel": "Flourishing | Law | Preview Response Karen Man Yee  Lee",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -2018,7 +2018,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/289",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=289",
     "matrixLabel": "Flourishing | Law | Preview Response Dinesha Samararatne",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -2040,7 +2040,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/302",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=302",
     "matrixLabel": "Flourishing | Social Sciences, Law | Preview Response Terence C. Halliday",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences",
       "Law"
@@ -2063,7 +2063,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/291",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=291",
     "matrixLabel": "Flourishing | Medicine | Preview Response Lydia Dugdale",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -2085,7 +2085,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/293",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=293",
     "matrixLabel": "Flourishing | Medicine | Preview Response Priscilla Chiu",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -2107,7 +2107,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/290",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=290",
     "matrixLabel": "Flourishing | Medicine | Preview Response John R. Peteet",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -2129,7 +2129,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/275",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=275",
     "matrixLabel": "Flourishing | Physical & Biological Sciences | Preview Response Thomas Chacko",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -2151,7 +2151,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/276",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=276",
     "matrixLabel": "Flourishing | Physical & Biological Sciences | Preview Response Daniel Hastings",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -2173,7 +2173,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/277",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=277",
     "matrixLabel": "Flourishing | Physical & Biological Sciences | Preview Response Krzysztof Wojciechowski",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -2195,7 +2195,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/273",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=273",
     "matrixLabel": "Flourishing | Physical & Biological Sciences | Preview Response Andrew Briggs",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -2217,7 +2217,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/274",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=274",
     "matrixLabel": "Flourishing | Physical & Biological Sciences | Preview Response Ian Hutchinson",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -2239,7 +2239,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/292",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=292",
     "matrixLabel": "Flourishing | Public Health | Preview Response Tyler VanderWeele",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Public Health"
     ],
@@ -2261,7 +2261,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/299",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=299",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Allan Bell",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2283,7 +2283,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/300",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=300",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Judy Dean",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2305,7 +2305,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/301",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=301",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Cecilia Jacob",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2327,7 +2327,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/294",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=294",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Donald Hay",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2349,7 +2349,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/295",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=295",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Gordon Menzies",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2371,7 +2371,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/296",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=296",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Jane Green",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2393,7 +2393,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/297",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=297",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Chris Marshall",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2415,7 +2415,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/298",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=298",
     "matrixLabel": "Flourishing | Social Sciences | Preview Response Joerg Friedrichs",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2437,7 +2437,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/302",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=302",
     "matrixLabel": "Flourishing | Social Sciences, Law | Preview Response Terence C. Halliday",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Social Sciences",
       "Law"
@@ -2460,7 +2460,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/278",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=278",
     "matrixLabel": "Flourishing | Theology | Preview Response Oliver O’Donovan",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -2482,7 +2482,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/279",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=279",
     "matrixLabel": "Flourishing | Theology | Preview Response Christopher Hays",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -2504,7 +2504,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/280",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=280",
     "matrixLabel": "Flourishing | Theology | Preview Response K. K. Yeo",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -2526,7 +2526,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/281",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=281",
     "matrixLabel": "Flourishing | Theology | Preview Response Jonathan Brant",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -2548,7 +2548,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/282",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=282",
     "matrixLabel": "Flourishing | Theology | Preview Response Murray Rae",
-    "theologyTheme": "Flourishing",
+    "dialogue": "Flourishing",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -2570,7 +2570,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/193",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=193",
     "matrixLabel": "Created Order | Theology Brief Preview Created Order\n\n - Nigel Biggar",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Preview",
     "title": "Created Order",
@@ -2590,7 +2590,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/218",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=218",
     "matrixLabel": "Created Order | Theology Brief Order\n\n - Nigel Biggar",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief",
     "title": "Order",
@@ -2610,7 +2610,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1072",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1072",
     "matrixLabel": "Created Order | Theology Brief Postscript Created Order\n\n - Nigel Biggar",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Postscript",
     "title": "Created Order",
@@ -2630,7 +2630,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/380",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=380",
     "matrixLabel": "Created Order | Engineering | Disciplinary Brief Artificial Intelligence for Social Good\n\n - Jacqueline C.K. Lam\n, Victor O.K. Li",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Engineering"
     ],
@@ -2654,7 +2654,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/371",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=371",
     "matrixLabel": "Created Order | Fine & Performing Arts | Disciplinary Brief Contemplating Dis-Order: A Literary Perspective\n\n - David C. Mahan",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Fine & Performing Arts"
     ],
@@ -2676,7 +2676,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/378",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=378",
     "matrixLabel": "Created Order | Humanities | Disciplinary Brief Embodied Goodness In Human Beings, Art, And Liturgy\n\n - Nicholas Wolterstorff",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -2698,7 +2698,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/376",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=376",
     "matrixLabel": "Created Order | Humanities | Disciplinary Brief Is Natural Order Still a Way of Access to God?\n\n - Javier Sánchez-Cañizares",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -2720,7 +2720,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/367",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=367",
     "matrixLabel": "Created Order | Humanities | Disciplinary Brief Valuing Profusion and Disorder in Creation, Language and Society \n\n - Allan Bell",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -2742,7 +2742,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/381",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=381",
     "matrixLabel": "Created Order | Law, Social Sciences | Disciplinary Brief Dynamics of Disorder in Legal Change\n\n - Terence C. Halliday",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -2765,7 +2765,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/387",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=387",
     "matrixLabel": "Created Order | Law | Disciplinary Brief God’s Moral Order and the Limits of Positive Law\n\n - Karen  Kong (江嘉恩)",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -2787,7 +2787,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/377",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=377",
     "matrixLabel": "Created Order | Public Health | Disciplinary Brief Public Health and the Created Order\n\n - Tyler VanderWeele",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Public Health"
     ],
@@ -2809,7 +2809,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/369",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=369",
     "matrixLabel": "Created Order | Public Policy | Disciplinary Brief Not the World We Ordered: International Relations and the Ukraine War\n\n - Joerg Friedrichs",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Public Policy"
     ],
@@ -2831,7 +2831,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/381",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=381",
     "matrixLabel": "Created Order | Law, Social Sciences | Disciplinary Brief Dynamics of Disorder in Legal Change\n\n - Terence C. Halliday",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -2854,7 +2854,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/370",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=370",
     "matrixLabel": "Created Order | Social Sciences | Disciplinary Brief Order in Market Economies\n\n - Donald Hay\n, Gordon Menzies",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -2878,7 +2878,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/379",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=379",
     "matrixLabel": "Created Order | Theology | Disciplinary Brief The Created Universe and Naturalistic Cosmos: A Cross-cultural Conversation with a Chinese Theologian\n\n - K. K. Yeo",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -2900,7 +2900,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/388",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=388",
     "matrixLabel": "Created Order | Education | Disciplinary Note Religious Education and/as Kenosis\n\n - Hubertus Roebben",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Education"
     ],
@@ -2922,7 +2922,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/368",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=368",
     "matrixLabel": "Created Order | Fine & Performing Arts | Disciplinary Note Musical Order\n\n - Daniel Chua",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Fine & Performing Arts"
     ],
@@ -2944,7 +2944,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/375",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=375",
     "matrixLabel": "Created Order | Humanities | Disciplinary Note Voices from the Fringe: University Colleges for Christian Vision\n\n - Stewart Gill",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -2966,7 +2966,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/372",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=372",
     "matrixLabel": "Created Order | Law | Disciplinary Note Christian University Leadership\n\n - Michael Spence",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -2988,7 +2988,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/374",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=374",
     "matrixLabel": "Created Order | Law | Disciplinary Note Covenant Orders\n\n - Nicholas Aroney",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -3010,7 +3010,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/373",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=373",
     "matrixLabel": "Created Order | Medicine | Disciplinary Note Order, the Moral Life and Mental Health Treatment\n\n - John R. Peteet",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -3032,7 +3032,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/366",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=366",
     "matrixLabel": "Created Order | Physical & Biological Sciences | Disciplinary Note The Roots of Order in the Natural Sciences\n\n - Denis Alexander",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -3054,7 +3054,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/314",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=314",
     "matrixLabel": "Created Order | Fine & Performing Arts | Preview Response Daniel Chua",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Fine & Performing Arts"
     ],
@@ -3076,7 +3076,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/317",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=317",
     "matrixLabel": "Created Order | Humanities | Preview Response Eleonore Stump",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -3098,7 +3098,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/318",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=318",
     "matrixLabel": "Created Order | Humanities | Preview Response Nicholas Wolterstorff",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -3120,7 +3120,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/315",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=315",
     "matrixLabel": "Created Order | Humanities | Preview Response Stewart Gill",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -3142,7 +3142,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/316",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=316",
     "matrixLabel": "Created Order | Humanities | Preview Response Casey Strine",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -3164,7 +3164,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/326",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=326",
     "matrixLabel": "Created Order | Law | Preview Response Karen  Kong (江嘉恩)",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -3186,7 +3186,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/332",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=332",
     "matrixLabel": "Created Order | Social Sciences, Law | Preview Response Terence C. Halliday",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences",
       "Law"
@@ -3209,7 +3209,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/327",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=327",
     "matrixLabel": "Created Order | Medicine | Preview Response John R. Peteet",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -3231,7 +3231,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/328",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=328",
     "matrixLabel": "Created Order | Medicine | Preview Response John R. Peteet",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -3253,7 +3253,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/325",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=325",
     "matrixLabel": "Created Order | Physical & Biological Sciences | Preview Response Ian Hutchinson",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -3275,7 +3275,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/323",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=323",
     "matrixLabel": "Created Order | Physical & Biological Sciences | Preview Response Barbara Drossel",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -3297,7 +3297,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/324",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=324",
     "matrixLabel": "Created Order | Physical & Biological Sciences | Preview Response Daniel Hastings",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -3319,7 +3319,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/332",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=332",
     "matrixLabel": "Created Order | Social Sciences, Law | Preview Response Terence C. Halliday",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences",
       "Law"
@@ -3342,7 +3342,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/333",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=333",
     "matrixLabel": "Created Order | Social Sciences | Preview Response Donald Hay",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -3364,7 +3364,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/329",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=329",
     "matrixLabel": "Created Order | Social Sciences | Preview Response Allan Bell",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -3386,7 +3386,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/330",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=330",
     "matrixLabel": "Created Order | Social Sciences | Preview Response Judy Dean",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -3408,7 +3408,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/331",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=331",
     "matrixLabel": "Created Order | Social Sciences | Preview Response Joerg Friedrichs",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -3430,7 +3430,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/319",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=319",
     "matrixLabel": "Created Order | Theology | Preview Response Christopher Hays",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3452,7 +3452,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/320",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=320",
     "matrixLabel": "Created Order | Theology | Preview Response Oliver O’Donovan",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3474,7 +3474,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/321",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=321",
     "matrixLabel": "Created Order | Theology | Preview Response Murray Rae",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3496,7 +3496,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/322",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=322",
     "matrixLabel": "Created Order | Theology | Preview Response K. K. Yeo",
-    "theologyTheme": "Created Order",
+    "dialogue": "Created Order",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3518,7 +3518,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/209",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=209",
     "matrixLabel": "Virtues | Theology Brief Preview The Virtues\n\n - Jennifer Herdt",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Preview",
     "title": "The Virtues",
@@ -3538,7 +3538,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/389",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=389",
     "matrixLabel": "Virtues | Theology Brief The Virtues\n\n - Jennifer Herdt",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief",
     "title": "The Virtues",
@@ -3558,7 +3558,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1096",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1096",
     "matrixLabel": "Virtues | Theology Brief Postscript The Virtues\n\n - Jennifer Herdt",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Postscript",
     "title": "The Virtues",
@@ -3578,7 +3578,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1071",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1071",
     "matrixLabel": "Virtues | Business | Disciplinary Brief Virtue Ethics and Central Banking\n\n - Ian Harper",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Business"
     ],
@@ -3600,7 +3600,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1066",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1066",
     "matrixLabel": "Virtues | Engineering | Disciplinary Brief Virtue Ethics and Development of an Ethical AI for Social Good\n\n - Jocelyn S. Downey\n, Victor O.K. Li\n, Jacqueline C.K. Lam",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Engineering"
     ],
@@ -3626,7 +3626,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1068",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1068",
     "matrixLabel": "Virtues | Fine & Performing Arts | Disciplinary Brief Literature and the Moral Urgency of Ambiguity\n\n - David C. Mahan",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Fine & Performing Arts"
     ],
@@ -3648,7 +3648,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/464",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=464",
     "matrixLabel": "Virtues | Humanities | Disciplinary Brief Virtues in the Classroom\n\n - Nicholas Wolterstorff",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -3670,7 +3670,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1084",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1084",
     "matrixLabel": "Virtues | Law | Disciplinary Brief Courage and Prudence in China’s Human Rights Struggles\n\n - Terence C. Halliday",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -3692,7 +3692,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/461",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=461",
     "matrixLabel": "Virtues | Law | Disciplinary Brief Virtue in Sexual Violence Law\n\n - Anna High",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -3714,7 +3714,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1097",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1097",
     "matrixLabel": "Virtues | Law | Disciplinary Brief Virtues and the Legal Conscience\n\n - Karen  Kong (江嘉恩)",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -3736,7 +3736,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/463",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=463",
     "matrixLabel": "Virtues | Medicine | Disciplinary Brief The Virtues in Psychiatric Practice\n\n - John R. Peteet",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -3758,7 +3758,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1070",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1070",
     "matrixLabel": "Virtues | Public Health | Disciplinary Brief Character Interventions for Public Health\n\n - Tyler VanderWeele",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Public Health"
     ],
@@ -3780,7 +3780,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1069",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1069",
     "matrixLabel": "Virtues | Social Sciences | Disciplinary Brief Economics and the Virtues\n\n - Gordon Menzies\n, Donald Hay",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -3804,7 +3804,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1073",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1073",
     "matrixLabel": "Virtues | Social Sciences | Disciplinary Brief Virtue Ethics vs Virtue Signalling in the Global Humanitarian System \n\n - Alana  Moore",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -3826,7 +3826,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/460",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=460",
     "matrixLabel": "Virtues | Theology | Disciplinary Brief How Diverse Global Cultural Contexts Confound and Enrich the Cultivation of Virtues\n\n - Christopher Hays",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3848,7 +3848,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/462",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=462",
     "matrixLabel": "Virtues | Theology | Disciplinary Brief The Place of Virtue Theory in Christian Ethics\n\n - Oliver O’Donovan",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3870,7 +3870,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1064",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1064",
     "matrixLabel": "Virtues | Business | Disciplinary Note Bringing Virtues into (Financial) Economics\n\n - Susan Thorp",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Business"
     ],
@@ -3892,7 +3892,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1065",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1065",
     "matrixLabel": "Virtues | Physical & Biological Sciences | Disciplinary Note Virtues in Science: Research Supervision and Collaboration\n\n - Pauline Chiu",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -3914,7 +3914,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1063",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1063",
     "matrixLabel": "Virtues | Theology | Disciplinary Note Virtues Across Cultures and Disciplines: From Proverbs and Paul to Confucius\n\n - K. K. Yeo",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -3936,7 +3936,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/334",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=334",
     "matrixLabel": "Virtues | Business | Preview Response Ian Harper",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Business"
     ],
@@ -3958,7 +3958,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/355",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=355",
     "matrixLabel": "Virtues | Education | Preview Response Hubertus Roebben",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Education"
     ],
@@ -3980,7 +3980,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/353",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=353",
     "matrixLabel": "Virtues | Fine & Performing Arts | Preview Response David C. Mahan",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Fine & Performing Arts"
     ],
@@ -4002,7 +4002,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/356",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=356",
     "matrixLabel": "Virtues | Humanities | Preview Response Stewart Gill",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4024,7 +4024,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/351",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=351",
     "matrixLabel": "Virtues | Humanities | Preview Response Nicholas Wolterstorff",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4046,7 +4046,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/359",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=359",
     "matrixLabel": "Virtues | Humanities | Preview Response Allan Bell",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4068,7 +4068,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/337",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=337",
     "matrixLabel": "Virtues | Humanities | Preview Response Javier Sánchez-Cañizares",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4090,7 +4090,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/360",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=360",
     "matrixLabel": "Virtues | Humanities | Preview Response Priscila Vieira",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4112,7 +4112,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/364",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=364",
     "matrixLabel": "Virtues | Law | Preview Response Nicholas Aroney",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4134,7 +4134,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/341",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=341",
     "matrixLabel": "Virtues | Law | Preview Response Karen Man Yee  Lee",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4156,7 +4156,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/349",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=349",
     "matrixLabel": "Virtues | Law | Preview Response John Inazu",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4178,7 +4178,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/350",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=350",
     "matrixLabel": "Virtues | Law | Preview Response Karen  Kong (江嘉恩)",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4200,7 +4200,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/346",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=346",
     "matrixLabel": "Virtues | Law | Preview Response Anna High",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4222,7 +4222,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/339",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=339",
     "matrixLabel": "Virtues | Law | Preview Response Michael Spence",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4244,7 +4244,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/347",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=347",
     "matrixLabel": "Virtues | Law, Social Sciences | Preview Response Terence C. Halliday",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -4267,7 +4267,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/335",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=335",
     "matrixLabel": "Virtues | Medicine | Preview Response John R. Peteet",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -4289,7 +4289,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/352",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=352",
     "matrixLabel": "Virtues | Medicine | Preview Response Connie Svob",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -4311,7 +4311,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/338",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=338",
     "matrixLabel": "Virtues | Medicine | Preview Response Tim Maughan",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -4333,7 +4333,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/363",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=363",
     "matrixLabel": "Virtues | Physical & Biological Sciences | Preview Response Manuel David Morales",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -4355,7 +4355,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/342",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=342",
     "matrixLabel": "Virtues | Physical & Biological Sciences | Preview Response Rafael Vicuña",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -4377,7 +4377,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/357",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=357",
     "matrixLabel": "Virtues | Physical & Biological Sciences | Preview Response Pauline Chiu",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -4399,7 +4399,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/354",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=354",
     "matrixLabel": "Virtues | Physical & Biological Sciences | Preview Response Daniel Hastings",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -4421,7 +4421,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/358",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=358",
     "matrixLabel": "Virtues | Public Health | Preview Response Tyler VanderWeele",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Public Health"
     ],
@@ -4443,7 +4443,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/340",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=340",
     "matrixLabel": "Virtues | Public Policy | Preview Response Joerg Friedrichs",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Public Policy"
     ],
@@ -4465,7 +4465,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/347",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=347",
     "matrixLabel": "Virtues | Law, Social Sciences | Preview Response Terence C. Halliday",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Law",
       "Social Sciences"
@@ -4488,7 +4488,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/343",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=343",
     "matrixLabel": "Virtues | Social Sciences | Preview Response Chris Marshall",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -4510,7 +4510,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/345",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=345",
     "matrixLabel": "Virtues | Social Sciences | Preview Response Donald Hay",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -4532,7 +4532,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/362",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=362",
     "matrixLabel": "Virtues | Social Sciences | Preview Response Judy Dean",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -4554,7 +4554,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/348",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=348",
     "matrixLabel": "Virtues | Theology | Preview Response Brendan Case",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -4576,7 +4576,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/336",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=336",
     "matrixLabel": "Virtues | Theology | Preview Response Christopher Hays",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -4598,7 +4598,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/344",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=344",
     "matrixLabel": "Virtues | Theology | Preview Response Oliver O’Donovan",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -4620,7 +4620,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/361",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=361",
     "matrixLabel": "Virtues | Theology | Preview Response K. K. Yeo",
-    "theologyTheme": "Virtues",
+    "dialogue": "Virtues",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -4642,7 +4642,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1082",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1082",
     "matrixLabel": "Love | Theology Brief Preview The Sovereignty of Love\n\n - Oliver O’Donovan",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief Preview",
     "title": "The Sovereignty of Love",
@@ -4662,7 +4662,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1553",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1553",
     "matrixLabel": "Love | Architecture | Disciplinary Responses to Theology Brief Preview Love Expressed in the Architecture of a Public Living Room with a Difference\n\n - Ian Robert Davis",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Architecture"
     ],
@@ -4684,7 +4684,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1091",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1091",
     "matrixLabel": "Love | Engineering | Disciplinary Responses to Theology Brief Preview Engineering:  Love Perhaps Conceived as Knowledge\n\n - Daniel Hastings",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Engineering"
     ],
@@ -4706,7 +4706,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1554",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1554",
     "matrixLabel": "Love | Humanities | Disciplinary Responses to Theology Brief Preview Love as a Way of Knowing the World Opposes a Dominant View of Knowledge\n\n - Carlos Miguel Gomez",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4728,7 +4728,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1549",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1549",
     "matrixLabel": "Love | Humanities | Disciplinary Responses to Theology Brief Preview Love within the context of a residential academic community.\n\n - Stewart Gill",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -4750,7 +4750,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1555",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1555",
     "matrixLabel": "Love | Law | Disciplinary Responses to Theology Brief Preview Love, Consent and Mutuality in Sexual Activity\n\n - Anna High",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4772,7 +4772,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1548",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1548",
     "matrixLabel": "Love | Law | Disciplinary Responses to Theology Brief Preview Love, Repression, And Rights Struggles In Contemporary China\n\n - Terence C. Halliday",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4794,7 +4794,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1544",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1544",
     "matrixLabel": "Love | Law | Disciplinary Responses to Theology Brief Preview Reflections on Love, Law and Human Rights\n\n - Karen  Kong (江嘉恩)",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4816,7 +4816,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1546",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1546",
     "matrixLabel": "Love | Law | Disciplinary Responses to Theology Brief Preview When Love Dies\n\n - Patrick Parkinson",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -4838,7 +4838,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1085",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1085",
     "matrixLabel": "Love | Medicine | Disciplinary Responses to Theology Brief Preview Love and Justice in Psychiatric Practice \n\n - John R. Peteet",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Medicine"
     ],
@@ -4860,7 +4860,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1095",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1095",
     "matrixLabel": "Love | Physical & Biological Sciences | Disciplinary Responses to Theology Brief Preview Duties of Love in the Research Lab\n\n - Lorna Smith",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Physical & Biological Sciences"
     ],
@@ -4882,7 +4882,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1552",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1552",
     "matrixLabel": "Love | Public Health | Disciplinary Responses to Theology Brief Preview Theology, Definitions, and Empirical Science on Interpersonal Love\n\n - Tyler VanderWeele",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Public Health"
     ],
@@ -4904,7 +4904,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1094",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1094",
     "matrixLabel": "Love | Public Policy | Disciplinary Responses to Theology Brief Preview Love, Justice, and International Relations\n\n - John M. Owen",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Public Policy"
     ],
@@ -4926,7 +4926,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1545",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1545",
     "matrixLabel": "Love | Public Policy | Disciplinary Responses to Theology Brief Preview States and Bureaucracies as Loveless Monsters?\n\n - Joerg Friedrichs",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Public Policy"
     ],
@@ -4948,7 +4948,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1090",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1090",
     "matrixLabel": "Love | Social Sciences | Disciplinary Responses to Theology Brief Preview Annotations on the Theology of Love and the Frontiers of Scholarship\n\n - Terence C. Halliday",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -4970,7 +4970,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1092",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1092",
     "matrixLabel": "Love | Social Sciences | Disciplinary Responses to Theology Brief Preview Bringing the Love Command to Markets\n\n - Donald Hay\n, Gordon Menzies",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -4994,7 +4994,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1088",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1088",
     "matrixLabel": "Love | Social Sciences | Disciplinary Responses to Theology Brief Preview Two Questions:  Is A Flourishing Life a Loving Life? Can Christian Love Inform A Virtue Ethic For Economists?\n\n - Gordon Menzies",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -5016,7 +5016,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1551",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1551",
     "matrixLabel": "Love | Theology | Disciplinary Responses to Theology Brief Preview Can we Talk about Love Responsibly without Cross-Cultural Hermeneutics?\n\n - K. K. Yeo",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -5038,7 +5038,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1093",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1093",
     "matrixLabel": "Love | Theology | Disciplinary Responses to Theology Brief Preview Love as Commanded, Spontaneous and Virtuous\n\n - Jennifer Herdt",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -5060,7 +5060,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1547",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1547",
     "matrixLabel": "Love | Theology | Disciplinary Responses to Theology Brief Preview Neighbor-Love in Career Advice for Students\n\n - Nicholas Wolterstorff",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -5082,7 +5082,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1086",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1086",
     "matrixLabel": "Love | Theology | Disciplinary Responses to Theology Brief Preview Truthful Love Beyond the Christian Faith?\n\n - Christopher Hays",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -5104,7 +5104,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1087",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1087",
     "matrixLabel": "Love | Theology | Disciplinary Responses to Theology Brief Preview Unifying Love in Relation to Dictates of Justice and the Priority of Mercy\n\n - Christopher Hays",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Theology"
     ],
@@ -5126,7 +5126,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1607",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1607",
     "matrixLabel": "Love | Theology Brief The Sovereignty of Love \n\n - Oliver O’Donovan",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [],
     "contentType": "Theology Brief",
     "title": "The Sovereignty of Love",
@@ -5146,7 +5146,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1635",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1635",
     "matrixLabel": "Love | Humanities | Disciplinary Brief Love and the Practice and Promise of History\n\n - Mark Smith",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Humanities"
     ],
@@ -5168,7 +5168,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1636",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1636",
     "matrixLabel": "Love | Law | Disciplinary Brief Sexual Violence:  Love, Reciprocity and Mutuality in Law\n\n - Anna High",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Law"
     ],
@@ -5190,7 +5190,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1637",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1637",
     "matrixLabel": "Love | Social Sciences | Disciplinary Brief Bringing the Love Command to Markets\n\n - Donald Hay\n, Gordon Menzies",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
@@ -5214,7 +5214,7 @@
     "url": "https://globalfacultyinitiative.net/content_item/1623",
     "pdfUrl": "https://globalfacultyinitiative.net/fi_pdf/get_document.php?id=1623",
     "matrixLabel": "Love | Social Sciences | Disciplinary Brief Why Love Belongs in Scholarly Discourse: A Reading of Oliver O’Donovan on “The Sovereignty of Love”\n\n - Gordon Menzies",
-    "theologyTheme": "Love",
+    "dialogue": "Love",
     "fieldsOfStudy": [
       "Social Sciences"
     ],
