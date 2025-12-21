@@ -15,6 +15,9 @@
     "primaryUniversity": "Yale University",
     "researchFocus": [
       "I retired from my professorship at Yale at the end of 2001. In my case, retirement has not meant inactivity. Since retirement, I have published four books on justice, two on political philosophy and theology, two on liturgy, one on art, one titled Religion in the University, and a memoir titled In This World of Wonders. During this past year I have written a rather long article on justice for the newly-inaugurated St Andrews Encyclopedia of Theology, and the plenary address for an upcoming (January) symposium titled “Screen Stories and Moral Understanding,” organized by Prof. Carl Plantinga (Calvin U.) and sponsored by the Templeton Foundation. I continue to be strongly interested in justice, art, and liturgy. The editors of the newly established Analyzing Theology series (Jonathan Cockayne and Joshua Rutledge) have put together, for the first volume in their series, a collection of my articles, some published, some unpublished, titled United by Love: Justice, Art, and Liturgy."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -30,7 +33,10 @@
     "name": "Ian Robert Davis",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/ian-robert-davis.jpg",
     "primaryUniversity": "Kyoto / Lund / Oxford Brookes Universities",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Architecture"
+    ]
   },
   {
     "academicBioUrl": "https://en.wikipedia.org/wiki/Ian_Hutchinson_(scientist)",
@@ -46,6 +52,9 @@
     "primaryUniversity": "MIT",
     "researchFocus": [
       "Issues I am working on in my field which is the Physics of Plasmas, and research into whether and how Nuclear Fusion (the energy source of the stars) can be turned into a practical energy source on earth. The third issue is an offshoot of my growing involvement in explaining the relationship between Christianity and science, which is somewhat outside my major scientific activity."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -64,6 +73,9 @@
     "researchFocus": [
       "How have British governments, policy-makers, and activists attempted to give meaning to concepts such as social justice and minimum needs through tax, social benefits, and other redistributive policies?",
       "How do political parties frame tax and spending proposals in their election campaigns, and why do voters seem to respond to them in different ways in different contexts?"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -83,6 +95,9 @@
     "primaryUniversity": "Auckland University of Technology",
     "researchFocus": [
       "Valuing Profusion and Disorder in Creation, Language and Society (Disciplinary Brief) Discipline(s): Humanities Theology: Created Order"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -100,6 +115,9 @@
     "primaryUniversity": "Bakke Graduate University",
     "researchFocus": [
       "Justice / Humanities (Preview Response) Discipline(s): Humanities Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -117,6 +135,9 @@
     "primaryUniversity": "University of Melbourne",
     "researchFocus": [
       "Flourishing / Law (Preview Response) Discipline(s): Law Theology: Flourishing"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -134,6 +155,10 @@
     "primaryUniversity": "American Bar Foundation",
     "researchFocus": [
       "Love, Repression, And Rights Struggles In Contemporary China (Disciplinary Responses to Theology Brief Preview) Discipline(s): Law Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Law",
+      "Social Sciences"
     ]
   },
   {
@@ -155,6 +180,9 @@
     "primaryUniversity": "The University of Queensland",
     "researchFocus": [
       "Current research projects:"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -169,7 +197,10 @@
     "name": "Patrick Parkinson",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/patrick-parkinson.jpg",
     "primaryUniversity": "University of Queensland",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Law"
+    ]
   },
   {
     "academicBioUrl": "https://www.hsph.harvard.edu/tyler-vanderweele/",
@@ -184,7 +215,10 @@
     "name": "Tyler VanderWeele",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/tyler-vanderweele.jpg",
     "primaryUniversity": "Harvard University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Public Health"
+    ]
   },
   {
     "academicBioUrl": "https://researchers.anu.edu.au/researchers/jacob-c",
@@ -202,6 +236,9 @@
     "primaryUniversity": "Australian National University",
     "researchFocus": [
       "Current issues that I am working on:"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -221,6 +258,9 @@
     "primaryUniversity": "University of Oxford",
     "researchFocus": [
       "[Please note: I retired ten years ago, and because of the responsibilities of my last two positions in the University of Oxford, I was not fully research active from about 2000 onwards.]"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -242,6 +282,9 @@
     "primaryUniversity": "University of Technology Sydney",
     "researchFocus": [
       "Why Love Belongs in Scholarly Discourse: A Reading of Oliver O’Donovan on “The Sovereignty of Love” (Disciplinary Brief) Discipline(s): Social Sciences Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -258,6 +301,9 @@
     "primaryUniversity": "University of Leicester",
     "researchFocus": [
       "Slavery and Abolition. I am working on several projects related to the contest over racial slavery in the British Atlantic World, 1760-1840. (i) A scholarly edition for Oxford UP of the Diaries of William Wilberforce; (ii) a microhistory of the missionary chapel at the epicentre of the 1823 Demerara slave rebellion; (iii) a religious history of the contest over racial slavery in Britain and its colonies."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -274,6 +320,9 @@
     "primaryUniversity": "Australian National University",
     "researchFocus": [
       "My current research investigates how leaders conceptualise global order, including the role foreign aid plays in notions of order building."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -290,6 +339,9 @@
     "primaryUniversity": "Victoria University of Wellington",
     "researchFocus": [
       "Now in retirement, I continue to work on innovative applications of restorative justice theory and practice for addressing social harms and promoting the common good across the full range of institutional life, including life in the church. Restorative justice refers to a relational way of responding to wrongdoing, conflict or injustice that seeks, above all else, to repair the harm suffered, and to do so, where possible, by actively involving the affected parties in facilitated dialogue and decision-making about their needs and obligations and about how to bring about positive changes for all involved. Emerging in the criminal justice arena in the early 1970s, the principles and practices of restorative justice have since migrated into many other spheres of social life, offering productive new ways of responding to relational harm and building inclusive and democratic communities."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -309,6 +361,9 @@
     "primaryUniversity": "Australian National University",
     "researchFocus": [
       ""
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -326,6 +381,9 @@
     "primaryUniversity": "Garrett-Evangelical Seminary",
     "researchFocus": [
       "Can we Talk about Love Responsibly without Cross-Cultural Hermeneutics? (Disciplinary Responses to Theology Brief Preview) Discipline(s): Theology Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -347,6 +405,9 @@
     "primaryUniversity": "ScholarLeaders",
     "researchFocus": [
       "Unifying Love in Relation to Dictates of Justice and the Priority of Mercy (Disciplinary Responses to Theology Brief Preview) Discipline(s): Theology Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -361,7 +422,10 @@
     "name": "Brendan Case",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/brendan-case.png",
     "primaryUniversity": "Harvard University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Theology"
+    ]
   },
   {
     "academicBioUrl": "https://angelicum.it/teologia/professor/thomas-joseph-white-o-p/",
@@ -378,6 +442,9 @@
     "primaryUniversity": "Pontifical University of St. Thomas (Angelicum)",
     "researchFocus": [
       "He is interested in ways that ideas from Thomas Aquinas have been and can be employed in modern Christian thought as a helpful resource for thinking about perennial questions of metaphysics, ethics, and religious belief."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -394,6 +461,9 @@
     "primaryUniversity": "MIT",
     "researchFocus": [
       "Engineering: Love Perhaps Conceived as Knowledge (Disciplinary Responses to Theology Brief Preview) Discipline(s): Engineering Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -410,6 +480,9 @@
     "primaryUniversity": "University of Rosario",
     "researchFocus": [
       "Epistemology of religion: Is religious experience a valid form of knowledge?"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -428,6 +501,9 @@
     "primaryUniversity": "Universidad Austral",
     "researchFocus": [
       "I am currently working on epistemology of interdisciplinary research, with a special focus on virtue epistemology. I am particularly interested in identifying the intellectual virtues required for interdisciplinary research between science and philosophy/theology, and order to design strategies to train them."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -442,7 +518,10 @@
     "name": "Alex Lee",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/alex-lee.jpg",
     "primaryUniversity": "Northwestern University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Law"
+    ]
   },
   {
     "academicBioUrl": "https://www.otago.ac.nz/law/staff/otago669410.html",
@@ -458,6 +537,9 @@
     "primaryUniversity": "University of Otago",
     "researchFocus": [
       "Sexual Violence: Love, Reciprocity and Mutuality in Law (Disciplinary Brief) Discipline(s): Law Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -474,6 +556,9 @@
     "primaryUniversity": "Harvard Medical School",
     "researchFocus": [
       "Love and Justice in Psychiatric Practice (Disciplinary Responses to Theology Brief Preview) Discipline(s): Medicine Theology: Love"
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -492,6 +577,9 @@
     "primaryUniversity": "Yale University",
     "researchFocus": [
       "Flourishing / Architecture (Preview Response) Discipline(s): Architecture Theology: Flourishing"
+    ],
+    "scholarDiscipline": [
+      "Architecture"
     ]
   },
   {
@@ -511,6 +599,9 @@
     "primaryUniversity": "University of Notre Dame",
     "researchFocus": [
       "My current research interests generally organize themselves around a broadly Aristotelian understanding of cities as agrarian-urban places that are simultaneously \"communities of communities\" that as cities exist to promote individual human flourishing understood as a life of moral and intellectual excellence lived in community with others; and that this basic idea (including the dignity of every human person, and exactly who belongs to the human community) has been extended and expanded in the historic wedding of classical humanist virtue ethics anthropology with a biblical understanding of creation, sin, history, eschatology, and (n.b. urban) redemption. This metaphysical realist understanding of the nature and purpose of cities (and architecture) informs my interest in the following three research topics, inter-related but in no particular rank order:"
+    ],
+    "scholarDiscipline": [
+      "Architecture"
     ]
   },
   {
@@ -526,7 +617,10 @@
     "name": "Daniel Chua",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/daniel-chua.jpg",
     "primaryUniversity": "University of Hong Kong",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
+    ]
   },
   {
     "academicBioUrl": "https://fahsanu.com/profile/dorothy-oluwagbemi/",
@@ -542,6 +636,9 @@
     "primaryUniversity": "University of Calabar",
     "researchFocus": [
       "1. To what extent can the poverty of cultivated critical thinking account for the paradoxes in Nigeria’s social, economic and political life?"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -560,6 +657,9 @@
     "primaryUniversity": "University of Sheffield",
     "researchFocus": [
       "Created Order / Humanities (Preview Response) Discipline(s): Humanities Theology: Created Order"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -574,7 +674,10 @@
     "name": "Eleonore Stump",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/eleonore-stump.jpg",
     "primaryUniversity": "Saint Louis University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Theology"
+    ]
   },
   {
     "academicBioUrl": "https://christopherwatkin.com/about/",
@@ -590,6 +693,9 @@
     "primaryUniversity": "Monash University",
     "researchFocus": [
       "Western Modernity and the Social Contract. My book \"The State of Nature and the Shaping of Modernity\" (2025) explores how the state of nature motif sits at the heart of a fractured and contentious West. I am currently researching a second volume in the series, on the notion of the common good in modernity."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -604,7 +710,10 @@
     "name": "Joy Pachuau",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/joy-pachuau.jpg",
     "primaryUniversity": "Jawaharlal Nehru University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.sydney.edu.au/arts/about/our-people/academic-staff/peter-anstey.html",
@@ -622,6 +731,9 @@
     "primaryUniversity": "University of Sydney",
     "researchFocus": [
       "I work mainly in the field of early modern philosophy."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -638,6 +750,9 @@
     "primaryUniversity": "formerly University of Hong Kong",
     "researchFocus": [
       "Justice / Law (Preview Response) Discipline(s): Law Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -655,6 +770,9 @@
     "primaryUniversity": "Northwestern University",
     "researchFocus": [
       "Justice / Law (Preview Response) Discipline(s): Law Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -674,6 +792,9 @@
     "primaryUniversity": "Universidad de La Sabana",
     "researchFocus": [
       "Justice / Law (Preview Response) Discipline(s): Law Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -690,6 +811,9 @@
     "primaryUniversity": "University of Hong Kong",
     "researchFocus": [
       "Comparative law and social policy, health related human rights, welfare law and policy, rights of older persons, socio-economic rights, public interest law."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -706,6 +830,9 @@
     "primaryUniversity": "La Trobe University",
     "researchFocus": [
       "Virtues / Law (Preview Response) Discipline(s): Law Theology: Virtues"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -725,6 +852,9 @@
     "primaryUniversity": "Columbia University",
     "researchFocus": [
       "Flourishing / Medicine (Preview Response) Discipline(s): Medicine Theology: Flourishing"
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -741,6 +871,9 @@
     "primaryUniversity": "University of Wisconsin–Madison",
     "researchFocus": [
       "Justice / Physical & Biological Sciences (Preview Response) Discipline(s): Physical & Biological Sciences Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -761,6 +894,9 @@
     "primaryUniversity": "University of Queensland",
     "researchFocus": [
       "Justice / Physical & Biological Sciences (Preview Response) Discipline(s): Physical & Biological Sciences Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -777,6 +913,9 @@
     "primaryUniversity": "University of Alberta",
     "researchFocus": [
       "My group's research focuses on understanding how Earth's continental crust, which is unique in the solar system and played a key role in making the Earth suitable for life, formed early in the planet's history. There are relatively few places worldwide where the earliest record of Earth history, from about 3.6 to 4.4 billion years ago, is preserved. One of those places is northern Canada, the so-called Canadian Shield. Over the past decade, my students and I have investigated one particular location in the Shield about 1300 km north of Edmonton, the Acasta Gneiss Complex, that contains some rocks that are about 4 billion years old. We conduct fieldwork in this remote location and subsequent laboratory work on the rock samples we collect. Specifically, we use the chemical and isotopic composition of the rocks and individual minerals in these rocks to gain insights on how these rocks and in turn the most ancient continental crust formed."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -795,6 +934,9 @@
     "primaryUniversity": "Brandeis International Business School",
     "researchFocus": [
       "Virtues / Social Sciences (Preview Response) Discipline(s): Social Sciences Theology: Virtues"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -811,6 +953,9 @@
     "primaryUniversity": "University of Nottingham",
     "researchFocus": [
       "My work uses an interdisciplinary, cross-cultural, and experimental approach to explore questions about how children and adults form concepts, how they learn and who they learn from, and when they innovate and become creative. These questions motivate current projects exploring the origin and transmission of culture, the cultural and cognitive underpinnings of religion and morality, and the motivations for learning and creativity. Specific topics include: what environments help children to be the most innovative, does working together or alone help with problem-solving, what aspects of morality do children find intuitive, who do children learn from, and how do children develop supernatural agent concepts?"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -829,6 +974,9 @@
     "primaryUniversity": "Redeemer University",
     "researchFocus": [
       "Justice / Social Sciences (Preview Response) Discipline(s): Social Sciences Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -854,6 +1002,9 @@
       "How to enact a critical refugee studies approach in the classroom and research processes",
       "How to produce media that platforms refugee perspectives without making refugee 'issues' hypervisible at the expense of the people behind the label; how to create media that invites dialogue rather than ideological shaming",
       "What it means to be a Christian scholar committed to decolonizing research"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -871,6 +1022,9 @@
     "primaryUniversity": "University of Texas at Austin",
     "researchFocus": [
       "Justice / Social Sciences (Preview Response) Discipline(s): Social Sciences Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -891,6 +1045,9 @@
     "primaryUniversity": "Yale University",
     "researchFocus": [
       "The Virtues (Theology Brief Postscript) Theology: Virtues"
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -911,6 +1068,9 @@
     "primaryUniversity": "Yale Divinity School",
     "researchFocus": [
       "Justice / Theology (Preview Response) Discipline(s): Theology Theology: Justice"
+    ],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
     ]
   },
   {
@@ -929,6 +1089,9 @@
     "primaryUniversity": "University of Edinburgh",
     "researchFocus": [
       "I am presently working on a series of reflections on the relation of love and justice in divine and human action."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -950,6 +1113,9 @@
     "primaryUniversity": "Wycliffe College, Oxford",
     "researchFocus": [
       "Within the discipline of Christian theology, I am currently working on:"
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -965,7 +1131,10 @@
     "name": "Miroslav Volf",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/miroslav-volf.jpg",
     "primaryUniversity": "Yale University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Theology"
+    ]
   },
   {
     "academicBioUrl": "https://faith.yale.edu/people/matthew-croasmun",
@@ -981,7 +1150,10 @@
     "name": "Matthew Croasmun",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/matthew-croasmun.jpg",
     "primaryUniversity": "Yale Divinity School",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Theology"
+    ]
   },
   {
     "academicBioUrl": "https://www.sickkids.ca/en/staff/c/priscilla-chiu/",
@@ -997,6 +1169,9 @@
     "primaryUniversity": "University of Toronto",
     "researchFocus": [
       "1. Basic science- immunology (human T cell development and T cell fate, food allergies)"
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -1013,6 +1188,9 @@
     "primaryUniversity": "AGH University of Science and Technology",
     "researchFocus": [
       "Head of Thermoelectric Research, Laboratory Department of Inorganic Chemistry Faculty of Materials Science and Ceramics, AGH University of Science and Technology, Kraków, Poland"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -1031,6 +1209,9 @@
     "primaryUniversity": "University of Oxford",
     "researchFocus": [
       "1. Research in my laboratory focusses on quantum control in small structures. For example, we can take a single molecule, attach two wires to it, and connect it across a gap about 2 billionths of a metre wide in a layer of carbon one atom thick. We can then study how electricity flows through the molecule one electron at a time. We can measure vibrations in a tube of carbon atoms about 1/50,000 the diameter of a human hair, and see how the nineteenth century laws of thermodynamics developed for steam engines apply to such a tiny structure. We use machine learning (the fastest moving topic in AI) to take real time decisions in the lab about what to measure next and to perform the experiments faster and better than a human can. See https://andrewbriggs.org/"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -1046,7 +1227,10 @@
     "name": "Jane Green",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/jane-green.jpg",
     "primaryUniversity": "University of Oxford",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Social Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://www.qeh.ox.ac.uk/people/j%C3%B6rg-friedrichs",
@@ -1061,7 +1245,8 @@
     "name": "Joerg Friedrichs",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/joerg-friedrichs.jpg",
     "primaryUniversity": "University of Oxford",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": []
   },
   {
     "academicBioUrl": "https://www.otago.ac.nz/theology/staff/otago013660.html",
@@ -1079,6 +1264,9 @@
     "primaryUniversity": "University of Otago",
     "researchFocus": [
       "Created Order / Theology (Preview Response) Discipline(s): Theology Theology: Created Order"
+    ],
+    "scholarDiscipline": [
+      "Architecture"
     ]
   },
   {
@@ -1096,6 +1284,9 @@
     "primaryUniversity": "University of Oxford",
     "researchFocus": [
       "Colonialism, reparations, free speech, the civic duty of universities to promote intellectual virtue"
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1112,6 +1303,9 @@
     "primaryUniversity": "University of Hong Kong",
     "researchFocus": [
       "Her current research focusses on the interface between AI, air pollution and public health, also between AI and neuroscience, particularly Alzheimer’s Disease."
+    ],
+    "scholarDiscipline": [
+      "Engineering"
     ]
   },
   {
@@ -1128,6 +1322,9 @@
     "primaryUniversity": "University of Hong Kong",
     "researchFocus": [
       "AI for Social Good; development and applications of artificial intelligence technologies to important societal problems, including clean energy and environment, medicine and health, and smart city."
+    ],
+    "scholarDiscipline": [
+      "Engineering"
     ]
   },
   {
@@ -1153,6 +1350,9 @@
       "Literature & Theology",
       "Christian Poetics",
       "Literature of Trauma"
+    ],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
     ]
   },
   {
@@ -1169,6 +1369,9 @@
     "primaryUniversity": "University of Navarra",
     "researchFocus": [
       "In the fields of Philosophy of Physics and Philosophy of Mind, my research focuses on the Interpretations of Quantum Mechanics and their application to the development of a renewed philosophy of nature. More specifically, I study the emergence of complex adaptive systems and optimization procedures that ask for a deeper philosophical understanding of natural processes, particularly the emergence of higher human faculties."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -1192,6 +1395,9 @@
       "Moral education",
       "Theology and education",
       "Ethics and education"
+    ],
+    "scholarDiscipline": [
+      "Education"
     ]
   },
   {
@@ -1207,7 +1413,10 @@
     "name": "Stewart Gill",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/stewart-gill.jpg",
     "primaryUniversity": "University of Melbourne",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.ucl.ac.uk/about/leadership/organisation/president-provost",
@@ -1221,7 +1430,10 @@
     "name": "Michael Spence",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/michael-spence.jpg",
     "primaryUniversity": "University College London",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Law"
+    ]
   },
   {
     "academicBioUrl": "https://www.st-edmunds.cam.ac.uk/people/dr-denis-alexander",
@@ -1236,7 +1448,10 @@
     "name": "Denis Alexander",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/denis-alexander.jpg",
     "primaryUniversity": "The Faraday Institute, Cambridge",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
+    ]
   },
   {
     "academicBioUrl": "http://www.fkp.tu-darmstadt.de/drossel",
@@ -1250,7 +1465,10 @@
     "name": "Barbara Drossel",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/barbara-drossel.jpg",
     "primaryUniversity": "Technical University of Darmstadt",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://en.wikipedia.org/wiki/Ian_Harper",
@@ -1268,6 +1486,9 @@
     "primaryUniversity": "University of Melbourne",
     "researchFocus": [
       "Australian macroeconomic policy, financial institutions and their regulation, competition policy and minimum wages."
+    ],
+    "scholarDiscipline": [
+      "Business"
     ]
   },
   {
@@ -1281,7 +1502,8 @@
     "name": "Jocelyn S. Downey",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/jocelyn-s-downey.jpg",
     "primaryUniversity": "University of Hong Kong",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": []
   },
   {
     "academicBioUrl": "https://researchprofiles.anu.edu.au/en/persons/alana-moore",
@@ -1297,6 +1519,9 @@
     "primaryUniversity": "Australian National University",
     "researchFocus": [
       "Her research interests include religion in global politics, understanding the role of faith-based actors in international relief and development, and understanding varying cultures of humanitarianism in the international system. As a part of this work, Alana also investigates the interface of Christian faith and scholarly practice, having authored articles from the International Journal of Public Theology and St Mark’s Review that look at how Christian communities can engage ethically with relief and development work."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -1313,6 +1538,9 @@
     "primaryUniversity": "University of Sydney",
     "researchFocus": [
       "Household finance; Behavioral Finance; Pensions"
+    ],
+    "scholarDiscipline": [
+      "Business"
     ]
   },
   {
@@ -1327,7 +1555,10 @@
     "name": "Pauline Chiu",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/pauline-chiu.jpg",
     "primaryUniversity": "University of Hong Kong",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1342,7 +1573,10 @@
     "name": "Priscila Vieira",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/priscila-vieira.jpg",
     "primaryUniversity": "Brunel University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://law.wustl.edu/faculty-staff-directory/profile/john-inazu/",
@@ -1359,6 +1593,9 @@
     "primaryUniversity": "Washington University",
     "researchFocus": [
       "U.S. Constitution First Amendment, pluralism, law and theology"
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -1376,6 +1613,9 @@
     "primaryUniversity": "Columbia University",
     "researchFocus": [
       "Research Scientist, Research Foundation for Mental Hygiene, Columbia University Irving Medical Center"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -1391,7 +1631,10 @@
     "name": "Tim Maughan",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/tim-maughan.jpg",
     "primaryUniversity": "University of Oxford",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://mdmorales.weebly.com",
@@ -1423,6 +1666,9 @@
       "Rethinking traditional Christian understanding of God and Nature, in context of science, technology, and process/relational thought.",
       "Open Educational PublishingHow to understand and to promote open science?",
       "How to understand and to promote open science?"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -1439,6 +1685,9 @@
     "primaryUniversity": "Pontifical Catholic University of Chile",
     "researchFocus": [
       "As an experimental scientist, during my career I did research in three fields: DNA replication, lignin biodegradation and life in extreme environments. In addition, throughout my career, I have always been interested in the origin of life on Earth and in the relation of science and religion."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -1461,6 +1710,9 @@
       "Protein folding",
       "Biomolecular simulation",
       "Protein NMR spectroscopy"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -1479,7 +1731,8 @@
     "primaryUniversity": "University of Virginia",
     "researchFocus": [
       "Democracy and international relations; the future of international order and the rise of China."
-    ]
+    ],
+    "scholarDiscipline": []
   },
   {
     "academicBioUrl": "https://www.conted.ox.ac.uk/profiles/mark-smith",
@@ -1493,7 +1746,10 @@
     "name": "Mark Smith",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/mark-smith.png",
     "primaryUniversity": "University of Oxford",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1508,7 +1764,10 @@
     "name": "Farr Curlin",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/farr-curlin.jpg",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1522,7 +1781,10 @@
     "name": "Andrew Dilnot",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/andrew-dilnot.jpg",
     "primaryUniversity": "University of Oxford",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Social Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1540,6 +1802,9 @@
       "Louis is a Professor of Theoretical Physics at the University of Oxford , where he leads an interdisciplinary research group that investigates scientific problems on the border between disciplines such as chemistry , physics , and biology , and is also director of graduate studies in theoretical physics.",
       "From 2002 to 2010 Louis was a Royal Society University Research Fellow at the University of Cambridge and the University of Oxford .",
       "I am a theoretical physicist with a broad interdisciplinary set of interests, including self-assembling DNA, theories of evolution, the dynamics of soft matter, machine learning and applications of algorithmic information theory."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -1558,6 +1823,9 @@
     "primaryUniversity": "University of Oxford",
     "researchFocus": [
       "He then altered focus and achieved a First Class Honours in Theology, a DD from the Faculty of Theology for his work on historical and systematic theology, and a DLitt from the Division of Humanities for his work in science and religion."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1574,6 +1842,9 @@
     "primaryUniversity": "University of Minnesota",
     "researchFocus": [
       "Her research involves the antigenic and genetic characterization of influenza A viruses of swine and turkeys, pathogenesis of unique influenza A virus infections in swine and turkeys, and the possible impact these viruses may have on current vaccination protocols in place in the US livestock industry."
+    ],
+    "scholarDiscipline": [
+      "Agriculture / Forestry"
     ]
   },
   {
@@ -1591,6 +1862,9 @@
     "researchFocus": [
       "His work in research, teaching and extension has been in epidemiology and economics, particularly in populations of swine.",
       "He has focused on measurement and optimization across competing needs in animal agriculture and society."
+    ],
+    "scholarDiscipline": [
+      "Agriculture / Forestry"
     ]
   },
   {
@@ -1608,6 +1882,9 @@
     "researchFocus": [
       "Juan received her Masters of Commerce (by research) degree and Ph.D.",
       "She is an active researcher in the area of empirical asset pricing, funds management, foreign exchange and emerging market."
+    ],
+    "scholarDiscipline": [
+      "Business"
     ]
   },
   {
@@ -1626,6 +1903,9 @@
       "His research interests include political theology with a focus on nationality, belonging and loyalty.",
       "He has also worked extensively in healthcare with particular focus on compassion in healthcare, medical professionalism and precision medicine.",
       "Before Oxford, he was a Research Fellow at Wolfson College, Cambridge, Associate Director of the Kirby Laing Institute for Christian Ethics and a local authority councillor in Bury St Edmunds."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1643,6 +1923,9 @@
     "primaryUniversity": "University of Notre Dame",
     "researchFocus": [
       "His research explores Spanish late scholastic moral and legal thought, and the colonial history of international relations."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1657,7 +1940,10 @@
     "name": "Matthew  Levering",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/matthew-levering.jpg",
     "primaryUniversity": "University of Saint Mary of the Lake",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Theology"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1673,6 +1959,9 @@
       "Kyama Mugambi specializes in historical, ecclesial, social, cultural, theological, and epistemological themes within African urban Christianity.",
       "My current research explores themes within emerging ecclesiologies on the continent.",
       "One project brings together six researchers to investigate expressions of communality within African churches."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1691,6 +1980,9 @@
       "Research Director of the Ian Ramsey Centre for Science and Religion at the Faculty of Theology and Religion, University of Oxford",
       "At Oxford since 2009, he has been Principal Investigator for more than $6M of research grants involving scholars in more than a dozen countries.",
       "A major theme of his research is second-person (I-you) relatedness in science, philosophy, and theology."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1709,6 +2001,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "As a teacher, he has mentored student research and offered courses on worship and theology, the Psalms, Trinitarian liturgical and sacramental theology, the history of worship, the Christian year, the arts in worship, as well as recent co-taught exploratory courses and seminars on global Christianity, intercultural learning, disability, and African-American religious autobiography."
+    ],
+    "scholarDiscipline": [
+      "Theology"
     ]
   },
   {
@@ -1725,6 +2020,9 @@
     "primaryUniversity": "University of Cambridge",
     "researchFocus": [
       "Empirical and theoretical research across the fields of values education, moral education and religious studies."
+    ],
+    "scholarDiscipline": [
+      "Education"
     ]
   },
   {
@@ -1743,6 +2041,9 @@
       "He holds an MA in Educational Leadership and Innovation from Warwick University, an MSc in Educational Research Methodology and DPhil in Education from the University of Oxford which were funded by an ESRC Studentship.",
       "His research interests focus on teacher education and geography, including recent collaborations developing through the Smart Cities Network for Sustainable Urban Future project which was shortlisted for the 2017 Newton Prize (India).",
       "Current projects include research on climate change education, and the geographies of digital technologies and their roles in teachers’ curriculum making, exploring the journeys through which information travels into school classrooms."
+    ],
+    "scholarDiscipline": [
+      "Education"
     ]
   },
   {
@@ -1760,6 +2061,9 @@
     "researchFocus": [
       "Balogun’s research focuses on nanoscale heat transport measurements and thermal properties of small-scale materials, experimental mechanics of soft biological materials, and optical and elastic wave sensors.",
       "His research is relevant to applications that involve nanoscale heat conduction, elastic wave propagation, optical sensing, and nanometrology."
+    ],
+    "scholarDiscipline": [
+      "Engineering"
     ]
   },
   {
@@ -1776,6 +2080,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "Deputy Scientific Director of OTIC Offshore Technology Innovation Centre; and Director for Innovation and Technology Transfer in the RCGI Research Centre for Greenhouse Gas Innovation."
+    ],
+    "scholarDiscipline": [
+      "Engineering"
     ]
   },
   {
@@ -1791,7 +2098,10 @@
     "name": "William Hoza",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/william-hoza.jpg",
     "primaryUniversity": "University of Chicago",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Engineering"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1807,6 +2117,9 @@
     "primaryUniversity": "MIT",
     "researchFocus": [
       "Koch Institute for Integrative Cancer Research; The Ragon Institute of MIT, MGH and Harvard; and is a member of the MIT Center for Gynepathology Research."
+    ],
+    "scholarDiscipline": [
+      "Engineering"
     ]
   },
   {
@@ -1823,6 +2136,9 @@
     "primaryUniversity": "Northwestern University",
     "researchFocus": [
       "Richard Lueptow's current research interests are in two areas:"
+    ],
+    "scholarDiscipline": [
+      "Engineering"
     ]
   },
   {
@@ -1837,7 +2153,10 @@
     "name": "Jerry O. Blackstone",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/jerry-o-blackstone.png",
     "primaryUniversity": "University of Michigan",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1854,6 +2173,9 @@
     "researchFocus": [
       "As a musicologist, Chong specializes in the music of the late Classical and Romantic eras in Germany and Austria, focusing particularly on the relationship of the creation and reception of musical works to religious, political, and intellectual history.",
       "Chong specializes in the music of the late Classical and Romantic eras in Germany and Austria, focusing particularly on the relationship of the creation and reception of musical works to religious, political, and intellectual history."
+    ],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
     ]
   },
   {
@@ -1866,7 +2188,10 @@
     "name": "Mabel Evwierhoma",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/mabel-evwierhoma.png",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1883,6 +2208,9 @@
     "researchFocus": [
       "Professor Maia is a composer and conductor with experience in teaching and artistic research.",
       "His main interests are in Composition, Creative Processes and Artistic Research; 20th and 21st Century Music Performance and Analysis; and Timbre and Orchestration."
+    ],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
     ]
   },
   {
@@ -1901,6 +2229,9 @@
       "Dr Min Yen Ong is an ethnomusicologist at the University of Cambridge Music Faculty with regional interests in Pacific Island cultures and the music of China.",
       "She is a research associate at Darwin College and bye-fellow at Homerton College and Murray Edwards, University of Cambridge.",
       "Her research is informed by notions of agency, belonging, sustainability, and resilience."
+    ],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
     ]
   },
   {
@@ -1915,7 +2246,10 @@
     "name": "Pearl Shangkuan",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/pearl-shangkuan.jpg",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Fine & Performing Arts"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1932,6 +2266,9 @@
     "researchFocus": [
       "Mark Alznauer specializes in nineteenth century philosophy, especially the work of German philosopher G.",
       "His interests include the history of metaphysics, practical philosophy, social theory, and aesthetics."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -1948,6 +2285,9 @@
     "primaryUniversity": "The University of Chicago",
     "researchFocus": [
       "Her teaching and research focuses on Homer, especially emotions, as well as literary depictions of solitude in ancient Greece."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -1966,6 +2306,9 @@
       "He subsequently went on to hold a postdoctoral research fellowship at Oxford as part of the Templeton-funded 'New Insights and Directions in Religious Epistemology' project.",
       "He then held a research fellowship at the University of Notre Dame's Center for Philosophy of Religion, before returning to Oxford.",
       "Max's research interests lie at the intersection of analytic philosophy of religion and epistemology, and he has published on such topics as divine hiddenness, religious diversity, etiological challenges to moral and religious beliefs, the nature of rationality and knowledge, and methodological issues concerning the emerging field of analytic theology."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -1980,7 +2323,10 @@
     "name": "James Bryson",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/james-bryson.jpg",
     "primaryUniversity": "Ludwig Maximilian University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -1997,6 +2343,9 @@
     "researchFocus": [
       "He studies the intellectual and religious history of early modern Europe and the north Atlantic world, with a focus on the intersection of religion and Enlightenment thought, c.",
       "His research and teaching interests include the history of theology and biblical scholarship, beliefs about the supernatural, notions of death and the afterlife, skepticism and unbelief, Jewish-Christian relations, and theories of secularization."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2011,7 +2360,10 @@
     "name": "Jennifer A. Frey",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/jennifer-a-frey.jpg",
     "primaryUniversity": "University of South Carolina",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2028,6 +2380,9 @@
     "researchFocus": [
       "Jim Gilchrist is a Lecturer in the History Department at Carnegie Mellon University, focusing on religion, politics, and journalism.",
       "Principal areas of teaching and related research have been religion and social ethics, religion and science, and (only tangentially related) truth and reliability in American journalism."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2046,6 +2401,9 @@
       "Her research focuses on the nonfictional prose of the early modern period, with a particular focus on letters and on the religious politics of the period.",
       "The research combines an interest in the stylistic qualities of early modern writing with historical research, particularly tracing the interconnections of lives and letters of the period.",
       "Her focus in detail includes well known writers such as Andrew Marvell and Thomas Traherne as well as lesser known writers such as Brilliana Harley and Lucy Robartes."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2062,6 +2420,9 @@
     "primaryUniversity": "University of Queensland",
     "researchFocus": [
       "Now emeritus at UQ he is a Professorial Research Fellow at the University of Notre Dame, Australia, and a Senior Research Fellow at Oxford's Ian Ramsey Centre."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2080,6 +2441,9 @@
     "primaryUniversity": "University of Oxford",
     "researchFocus": [
       "His research interests are in the history of English Language, especially in the Medieval Period"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2094,7 +2458,10 @@
     "name": "Michael D. Hurley",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/michael-d-hurley.jpg",
     "primaryUniversity": "University of Cambridge",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2110,6 +2477,9 @@
     "primaryUniversity": "University of Queensland",
     "researchFocus": [
       "Honorary Senior Research Fellow, TC Beirne School of Law at the University of Queensland Australia"
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2127,6 +2497,9 @@
     "primaryUniversity": "University of Minnesota",
     "researchFocus": [
       "His research focuses on diverse conceptual issues in biology and has included work on evolutionary developmental biology (Evo-devo), developmental biology, genomics, molecular biology, and paleontology."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2143,6 +2516,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "He was Research Fellow at Harris Manchester College and the Ian Ramsey Centre for Science and Religion (University of Oxford), with projects on special divine action, and on science, philosophy and theology in Latin America."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2160,6 +2536,9 @@
     "researchFocus": [
       "Alicia Smith is a researcher and teacher in medieval studies, with research interests focused around medieval religious literature and practice, and the responsibilities and challenges of understanding that history today.",
       "She has previously taught at Birkbeck, University of London and several Oxford and Cambridge colleges, and has held research fellowships at the Parker Library, Corpus Christi College, Cambridge, and the Pontifical Institute of Mediaeval Studies, Toronto."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2174,7 +2553,10 @@
     "name": "John Thomas",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/john-thomas.jpg",
     "primaryUniversity": "India Institute of Technology",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Humanities"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2190,6 +2572,9 @@
     "primaryUniversity": "University of Cambridge",
     "researchFocus": [
       "He specialises in British literature of the nineteenth century and has edited several major essay collections including Dickens's Style (Cambridge UP, 2013), Poetry in the Making: Composition and Revision in Victorian Poetic Drafts (Oxford UP, 2020) and On Style in Victorian Fiction (Cambridge UP, 2020)."
+    ],
+    "scholarDiscipline": [
+      "Humanities"
     ]
   },
   {
@@ -2208,6 +2593,9 @@
     "researchFocus": [
       "Co-director of the International Law Research Group",
       "Associate Professor, Director of the Public Interest and Human Rights Legal Clinic, University of La Sabana (Colombia), Co-director of the International Law Research Group and member of the Academic Committee of the International Law Master’s at University of La Sabana (Colombia)."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2223,6 +2611,9 @@
     "researchFocus": [
       "He has held visiting professorships at the Faculties of Law of the Universities of Paris I (Sorbonne) and X (Nanterre), and the Universty of Leon (Spain), and Senior Research Fellowships at the Yale Law School, the Kings ’ College Law School, and the Max Planck Institute for Comparative Public Law and International Law (Heidelberg).",
       "His scholarship focuses on constitutional rights’ interpretation, comparative constitutional change, general jurisprudence –in particular on the intersection between social ontology and legal theory, and the philosophical foundations of tort law."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2238,7 +2629,10 @@
     "name": "Eric Cheung",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/eric-cheung.jpg",
     "primaryUniversity": "University of Hong Kong",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Law"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2256,6 +2650,9 @@
       "Professor Coleman’s current research projects focus on 1) understanding the anatomy of cancel culture and its effects on marginalized groups as speakers and 2) understanding the relationship between equal protection and political power.",
       "During that time, she worked closely with the Korean government on several initiatives, such as international roundtables on offensive speech held by the Korean Communication Standards Commission and efforts by the Korean Legislation Research Institute to make Korean statutes more accessible to foreign communities.",
       "I research the mechanics and impact of the social regulation of speech, of which cancel culture is one manifestation."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2272,6 +2669,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "His academic research areas include: Author’s royalties; telecommunications law; intellectual property; regulation of Internet and electronic commerce; and regulation of telecommunication."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2288,6 +2688,9 @@
     "primaryUniversity": "University of Sydney",
     "researchFocus": [
       "His research and publications focus on constitutionalism, religious liberty, and human rights norms, with a particular emphasis on the relationship of these to theological ideas, questions, and history."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2306,6 +2709,9 @@
       "Jessica’s research interests lie in the law of obligations, restitution, equity and commercial law.",
       "She has received university teaching awards and national writing awards for her research.",
       "In 2015, she won the University of Otago Rowheath Trust Award and Carl Smith Medal for outstanding scholarly research achievement across all disciplines."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2323,6 +2729,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "Ben's principal areas of research interest are constitutional law, especially executive power and responsible government, law and religion, and natural law."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2341,6 +2750,9 @@
     "researchFocus": [
       "He is Series Editor of Emory Studies in Law and Religion(Eerdmans) and Cambridge Studies in Law and Christianity (Cambridge University Press), and he coedits the Journal of Law and Religion, Brill Research Perspectives on Law and Religion, and the new Colección Raíces del Derecho (Aranzadi).",
       "He has been selected twelve times by the Emory law students as the Most Outstanding Professor and has won dozens of other awards and prizes for his teaching and research."
+    ],
+    "scholarDiscipline": [
+      "Law"
     ]
   },
   {
@@ -2359,6 +2771,9 @@
     "researchFocus": [
       "Antiel’s scholarship focuses on improving the lives of children and families confronted with difficult decisions such as surgical decision-making in the face of uncertainty and end-of-life issues.",
       "His research combines empirical approaches from the fields of epidemiology, decision-making sciences, and child outcomes with conceptual work grounded in moral philosophy and theology."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2377,6 +2792,9 @@
       "Tracy's primary research interests are in palliative care, including the psychosocial aspects of advanced cancer and radiotherapy for palliation.",
       "Within the psychosocial aspects of advanced cancer, she has a particular focus on the role of religion and spirituality in the experience of cancer.",
       "Tracy's research also includes improving radiotherapy for palliation, such as studying applications of new radiotherapy technologies to palliation."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2392,7 +2810,10 @@
     "name": "Richard J. Gilbertson",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/richard-j-gilbertson.jpg",
     "primaryUniversity": "University of Cambridge",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2410,6 +2831,9 @@
       "As VIGH’s Associate Director for Education and Training from 2009 to 2019, he directed VIGH’s education and training programs for Vanderbilt students and trainees as well as research training opportunities for doctoral and postdoctoral trainees from low- and middle-income countries.",
       "These included co-creation and co-direction of the Global Health Track in Vanderbilt’s Master of Public Health Program and the NIH-funded UNZA-Vanderbilt Partnership for HIV-NCD Research (UVP) , the Vanderbilt-Zambia Cancer Research Training Program (VZCARE ), the Vanderbilt-Emory-Cornell-Duke Consortium for Global Health Fellows (VECDor), the Vanderbilt-Zambia Network for Innovation in Global Health Technologies (VZNIGHT) , and the Training Program in Molecular and Genetic Epidemiology of Cancer (MAGEC) .",
       "Heimburger's principal research interests are nutritional influences on HIV treatment outcomes, including non-communicable conditions, in African adults, and global health research education and training."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2425,7 +2849,10 @@
     "name": "Christina Kong",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/christina-kong.jpg",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2439,7 +2866,10 @@
     "name": "Caleb Mpyet",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/caleb-mpyet.jpg",
     "primaryUniversity": "University of Jos",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2456,6 +2886,9 @@
     "primaryUniversity": "University of Jos",
     "researchFocus": [
       "Jonah’s long-term research goal is to apply clinical, molecular epidemiology and translational research methodology to understand novel approaches that could improve primary cervical cancer prevention and advance the science of early detection and treatment of cervical precancer in Nigeria and globally."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2475,6 +2908,9 @@
       "Mutale has over 16 years of work experience in Sub-Saharan Africa working as a manager, clinician, and researcher.",
       "His primary research interests are the implementation of complex health systems interventions and health system strengthening in low-income settings.",
       "He has worked on a variety of research projects on topics such as non-communicable diseases and prevention of mother to child transmission of HIV."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2490,7 +2926,10 @@
     "name": "Ryan R. Nash",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/ryan-r-nash.jpg",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2504,7 +2943,10 @@
     "name": "Abraham M. Nussbaum",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/abraham-m-nussbaum.jpg",
     "primaryUniversity": "University of Colorado",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2518,7 +2960,10 @@
     "name": "Helen Pappas",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/helen-pappas.jpg",
     "primaryUniversity": "Northwestern University",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2533,7 +2978,10 @@
     "name": "S. Joshua Swamidass",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/s-joshua-swamidass.jpg",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Medicine"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2549,6 +2997,9 @@
     "primaryUniversity": "University of Michigan",
     "researchFocus": [
       "His primary clinical research interests include hearing preservation surgery in the treatment of vestibular schwannoma, the treatment of vestibular disorders, and the application of implantable devices for the rehabilitation of hearing loss."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2568,6 +3019,9 @@
       "He is an academic hospitalist, clinical ethicist, and medical educator with research interests in the fields of virtue ethics, moral psychology, and character development and professional formation in medical education.",
       "His primary research interests are virtue ethics and professional identity formation in medical education.",
       "He also has interests in religion/spirituality and character development in medicine."
+    ],
+    "scholarDiscipline": [
+      "Medicine"
     ]
   },
   {
@@ -2582,7 +3036,10 @@
     "name": "Dorian Abbot",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/dorian-abbot.jpg",
     "primaryUniversity": "University of Chicago",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2599,6 +3056,9 @@
     "researchFocus": [
       "Zachary Ardern is a research fellow in bacterial evolutionary genomics at the Wellcome Sanger Institute, Cambridge, UK.",
       "His research is oriented towards theoretical evolutionary biology, particularly the origins of genetic novelty in microbes."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2615,6 +3075,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "Professor of Seismology, Earth Sciences Division, Ensenada Center for Research and Higher Education (CICESE), Mexico"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2629,7 +3092,10 @@
     "name": "Peter M. W. Gill",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/peter-m-w-gill.jpg",
     "primaryUniversity": "University of Sydney",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2647,6 +3113,9 @@
       "Visiting Research Fellow, School of Biological and Marine Sciences, University of Plymouth",
       "He works in support of the Director in leading and championing the provision of high quality research, scholarship and external engagement within Marine Institute.",
       "He also maintains a research portfolio and is an active researcher in the Marine Biology, Ecology and Conservation theme."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2666,6 +3135,9 @@
     "researchFocus": [
       "After a postdoc at College Park, Maryland and Princeton, New Jersey, he became the leader of an independent research group hosted at the Max Planck Institute for Plasma Physics (IPP) at Garching, supported first by a Helmholtz Young Investigators Award and then by a Starting Grant from the European Research Council.",
       "My research interests center around the physics of ionized gases (plasmas) with applications in fusion energy and astrophysics, employing a wide range of techniques from High Performance Computing and Artificial Intelligence."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2683,6 +3155,9 @@
     "researchFocus": [
       "He pursues these interests through theoretical modeling and participation in spacecraft missions.",
       "He is on the science team for the James Webb Space Telescope, focusing on characterization of extrasolar planets and Kuiper Belt objects."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2699,6 +3174,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "Newsome co-chaired the NIH BRAIN working group, charged with forming a national plan for the coming decade of neuroscience research in the United States."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2713,7 +3191,10 @@
     "name": "Karin Öberg",
     "photoUrl": "https://raw.githubusercontent.com/iphotostuff/gfi-matrix-data/main/images/scholars/karin-oberg.jpg",
     "primaryUniversity": "",
-    "researchFocus": []
+    "researchFocus": [],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
+    ]
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2730,6 +3211,9 @@
     "researchFocus": [
       "He has also served as an European Research Council panel member and Chair.",
       "His early research focused on fundamental studies of vibrational energy redistribution in gas phase molecules using a variety of laser spectroscopic techniques."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2746,6 +3230,9 @@
     "primaryUniversity": "University of Munich",
     "researchFocus": [
       "Professor and Chair, Department of Microbial Ecology, Central Institute for Food and Food Research, Technical University of Munich"
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2764,6 +3251,9 @@
       "From 1990–1992 he was a Junior Research Fellow of Merton College, Oxford.",
       "From 1995–1999 he was a Royal Society University Research Fellow, based at the University of Oxford, during which period he was also a Fellow by Special Election of St Edmund Hall, Oxford (1996–1999) and a Lecturer in Physics, St Edmund Hall, Oxford (1998–1999).",
       "For part of 1996 he was a guest researcher at the Institute for Theoretical Physics, University of California, Santa Barbara."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2780,6 +3270,9 @@
     "primaryUniversity": "MIT",
     "researchFocus": [
       "His research focuses on the intersection of quantum mechanics and chemistry."
+    ],
+    "scholarDiscipline": [
+      "Physical & Biological Sciences"
     ]
   },
   {
@@ -2797,6 +3290,9 @@
     "researchFocus": [
       "His research has encompassed various topics related to behavioral risk factors, including tobacco and alcohol use, physical activity, work-related stress, and sleep.",
       "Cho’s current research interests include how religious participation relates to health behaviors and mental health in Koreans."
+    ],
+    "scholarDiscipline": [
+      "Public Health"
     ]
   },
   {
@@ -2814,7 +3310,8 @@
     "primaryUniversity": "",
     "researchFocus": [
       "Previously, she worked at the Global Equity Initiative at Harvard University, the Human Security Commission, and the World Bank’s Poverty and Culture Learning and Research Initiative."
-    ]
+    ],
+    "scholarDiscipline": []
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2831,7 +3328,8 @@
     "researchFocus": [
       "His research interests include: climate change policy (both mitigation and adaptation); child poverty; governance (especially anticipatory governance); public management; tertiary education funding (especially research funding); and welfare state design.",
       "In the early 2000’s he served as a member of the Tertiary Education Advisory Committee and helped design and implement the Performance-Based Research Fund in New Zealand’s tertiary education sector."
-    ]
+    ],
+    "scholarDiscipline": []
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2848,7 +3346,8 @@
     "researchFocus": [
       "He was educated at Cambridge (BA, MPhil, PhD), where he was also previously a Research Fellow at Sidney Sussex College.",
       "His research focuses on a variety of issues in moral and political philosophy, especially on trust, issues at the intersection of technology and security, and on the nature of freedom."
-    ]
+    ],
+    "scholarDiscipline": []
   },
   {
     "academicBioUrl": "https://www.facultyinitiative.net/search",
@@ -2865,6 +3364,9 @@
     "researchFocus": [
       "His research focuses on the implications of moral and religious disagreement for liberal democratic politics, the place of religion in politics, and religious freedom.",
       "He also works on the morality of online public shaming."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2881,6 +3383,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "Senior Research Fellow, Berkley Center for Religion, Peace, and World Affairs, Georgetown University, USA"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2898,6 +3403,9 @@
     "researchFocus": [
       "Senior Research Fellow of Harris Manchester College, University of Oxford",
       "Research methods (qualitative and quantitative)"
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2916,6 +3424,9 @@
       "He received a National Research Service Award from the National Institute of Mental Health for postdoctoral training in survey research at the University of Michigan’s Institute for Social Research (1979-82).",
       "He teaches undergraduate and graduate classes in social psychology, research methods, advanced statistics, and structural equation modeling.",
       "He has helped secure more than $16 million in research grants."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2936,6 +3447,9 @@
       "Director of International Development at the Laudato Si’ Research Institute , Campion Hall",
       "Séverine Deneulin is Associate Fellow in International Development at ODID, and Director of International Development at the Laudato Si’ Research Institute, Campion Hall.",
       "Her research is in the area of development ethics, focusing on the works of Indian economist and philosopher Amartya Sen."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2954,6 +3468,9 @@
       "Research Fellow at the University of Nottingham School of Sociology and Social Policy",
       "Sarah Doxat-Pratt is a research fellow for the Leverhulme funded project 'Penal Supervision in Comparative Context', led by Professor Nicola Carr, which compares the practice and experience of community supervision across five different nations: England, Northern Ireland, Republic of Ireland, Scotland and Wales.",
       "She then worked as a Research Assistant on the Comparative Penology project at the Institute of Criminology, University of Cambridge, comparing the experience of imprisonment in England & Wales and Norway."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2972,6 +3489,9 @@
       "He brings this to his scholarship of geographical learning and education which is informed by a participatory action research ethos.",
       "As an Exeter Education Incubator fellow, Professor Finn worked with students to research experiences of transitions to university following the introduction of the reformed A Levels in England .",
       "This research informs his contribution to Exeter's Transition and Induction Working Group."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -2989,6 +3509,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "His research focuses on religion and politics the West in comparative and historical perspective."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3007,6 +3530,9 @@
       "His research focuses on social stratification, inequality, and family demography.",
       "His current research examines how parental investments of time and money are shaped by factors such as family income, education, race/ethnicity, and family structure; how parenting logics and resources intersect; and how various aspects of children’s family environments influence their achievement and long-term wellbeing.",
       "His current research examines how parental investments of time and money are shaped by factors such as family income, education, race/ethnicity, and family structure; how parenting logics and resources intersect; and how various aspects of children’s family environments influence their achievement and long-term wellbeing."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3024,6 +3550,9 @@
     "researchFocus": [
       "from the University of Toronto and conducted her postdoctoral research at Harvard’s Fairbank Center for Chinese Studies.",
       "She has been selected to be a member of the Institute for Advanced Study at Princeton (2018-19) and is a current research associate of Harvard’s Fairbank Center for Chinese Studies."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3040,6 +3569,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "He has led several large collaborative research projects on surveillance, with research funding totalling almost $8 million."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3054,6 +3586,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "He is currently a senior research scholar at Boston College's Clough Center for the Study of Constitutional Democracy, where he co-facilitates a seminar and leads a graduate workshop on \"Envisioning Democratic Futures\", edits an annual journal, and explores challenges facing democracy in the U.S., India, and globally."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3073,6 +3608,9 @@
     "researchFocus": [
       "He teaches and conducts research in Sociology of the Media, Nollywood Studies and African Cultural Dynamics.",
       "Most of his works are available at ResearchGate ."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3089,6 +3627,9 @@
     "primaryUniversity": "",
     "researchFocus": [
       "He has honorary research appointments at the Centre for Religion Ethics and Society at Charles Sturt University and the University of Divinity."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3105,6 +3646,9 @@
     "primaryUniversity": "University of Notre Dame",
     "researchFocus": [
       "in 1996 from Harvard University and specializes in religion and global politics, focusing on religious freedom, reconciliation, the political behavior of religious actors, and Christian political theology."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   },
   {
@@ -3121,6 +3665,9 @@
     "primaryUniversity": "University of Michigan",
     "researchFocus": [
       "His research combines functional imaging of the human brain with computational modeling and behavioral methods to investigate the neural architecture underlying cognition."
+    ],
+    "scholarDiscipline": [
+      "Social Sciences"
     ]
   }
 ]
