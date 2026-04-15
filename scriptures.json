@@ -1,0 +1,3283 @@
+{
+  "_meta": {
+    "description": "Scripture references for GFI dialogues, organized by book, reference, and dialogue. Links use articleSlug and section for new app navigation.",
+    "generated": "2026-04-14",
+    "dialogues": [
+      "Created Order",
+      "Justice"
+    ],
+    "totalEntries": 212
+  },
+  "entries": [
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis",
+      "description": "God declares that creation is 'good'",
+      "links": [
+        {
+          "articleId": "322",
+          "articleSlug": "322-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "193",
+          "articleSlug": "193-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "378",
+          "articleSlug": "378-embodied-goodness-in-human-beings-art-and-liturgy",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 1:3, 7",
+      "description": "The created world reflects God's rationality, beauty and coherence",
+      "links": [
+        {
+          "articleId": "193",
+          "articleSlug": "193-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 1:3, 7",
+      "description": "Further reflection on the similarities between God's attributes and the order seen in the world",
+      "links": [
+        {
+          "articleId": "321",
+          "articleSlug": "321-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 1:26",
+      "description": "God makes humans in his image to rule over and steward creation",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 1:29-30",
+      "description": "God gives plants to human beings for sustenance",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 3",
+      "description": "The fall introduces chaos and evil into the world",
+      "links": [
+        {
+          "articleId": "322",
+          "articleSlug": "322-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 11",
+      "description": "The sin of Babel was the refusal to disperse throughout the earth; being given multiple languages enabled humans to do this",
+      "links": [
+        {
+          "articleId": "367",
+          "articleSlug": "367-valuing-profusion-and-disorder-in-creation-language-and-society",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 6:4",
+      "description": "Israel's creed declares that God is one",
+      "links": [
+        {
+          "articleId": "193",
+          "articleSlug": "193-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Job",
+      "reference": "Job 38:6-7",
+      "description": "The stars sing and angels shout for joy at creation",
+      "links": [
+        {
+          "articleId": "368",
+          "articleSlug": "368-musical-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s)",
+      "description": "The psalms testify to variety and profusion of God's creation",
+      "links": [
+        {
+          "articleId": "329",
+          "articleSlug": "329-created-order-social-sciences",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s)",
+      "description": "The psalms contain much wisdom about rituals in worship",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 19",
+      "description": "The natural world cries out to God in praise",
+      "links": [
+        {
+          "articleId": "316",
+          "articleSlug": "316-created-order-humanities",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 119",
+      "description": "This psalm focuses on the law given at Sinai as a source of moral instruction",
+      "links": [
+        {
+          "articleId": "333",
+          "articleSlug": "333-created-order-social-sciences",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Proverbs",
+      "reference": "Proverbs",
+      "description": "Proverbs contains wisdom about using rituals in life and society",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Song of Songs",
+      "reference": "Song of Songs",
+      "description": "The lovers in the Song of Songs transcend rationality",
+      "links": [
+        {
+          "articleId": "329",
+          "articleSlug": "329-created-order-social-sciences",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "367",
+          "articleSlug": "367-valuing-profusion-and-disorder-in-creation-language-and-society",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 55:12",
+      "description": "The natural world cries out to God in praise",
+      "links": [
+        {
+          "articleId": "316",
+          "articleSlug": "316-created-order-humanities",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah 31:33",
+      "description": "An external source of law is needed in society since God's law is not (perfectly) written on human hearts",
+      "links": [
+        {
+          "articleId": "369",
+          "articleSlug": "369-not-the-world-we-ordered-international-relations-and-the-ukraine-war",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Hosea",
+      "reference": "Hosea 6:6",
+      "description": "Sacrifice and rituals do not necessarily bring about the mercy, justice, and virtue that God desires",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "Old Testament",
+      "book": "Micah",
+      "reference": "Micah 6:8",
+      "description": "Micah's statement that God requires us to act justly, love mercy, and walk humbly with him is a good foundation for Christians wishing to act within human legal orders",
+      "links": [
+        {
+          "articleId": "387",
+          "articleSlug": "387-gods-moral-order-and-the-limits-of-positive-law",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 8:5-10, 13",
+      "description": "Jesus commended a Roman soldier as an example of strong faith",
+      "links": [
+        {
+          "articleId": "1072",
+          "articleSlug": "1072-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 13:31-33",
+      "description": "The parables of the yeast and mustard seeds indicate that Jesus saw the growth of the kingdom as gradual and organic, not revolutionary",
+      "links": [
+        {
+          "articleId": "1072",
+          "articleSlug": "1072-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 22:37-40",
+      "description": "Jesus' command to love God and neighbours",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 22:39",
+      "description": "God's commands to love him and love our neighbours cannot be separated",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Mark",
+      "reference": "Mark 2:27",
+      "description": "Jesus' comment about the Sabbath being made for humans shows that human flourishing is prior to commandments in a Christian ethic",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "1072",
+          "articleSlug": "1072-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Mark",
+      "reference": "Mark 12:17",
+      "description": "Jesus did not seek to use violent, political means to bring about his goals; he refused to condemn Caesar explicitly",
+      "links": [
+        {
+          "articleId": "1072",
+          "articleSlug": "1072-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Mark",
+      "reference": "Mark 12:30-31",
+      "description": "God's moral law is summarised in the commandment to love God and love one's neighbours",
+      "links": [
+        {
+          "articleId": "387",
+          "articleSlug": "387-gods-moral-order-and-the-limits-of-positive-law",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 1:46-55",
+      "description": "Mary's song announces that Jesus' ministry will disrupt oppressive hierarchies and move marginalised people to the centre",
+      "links": [
+        {
+          "articleId": "367",
+          "articleSlug": "367-valuing-profusion-and-disorder-in-creation-language-and-society",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 6:20-26",
+      "description": "Jesus' beatitudes are socially disruptive, announcing woe to those who are dominant and satisfied",
+      "links": [
+        {
+          "articleId": "367",
+          "articleSlug": "367-valuing-profusion-and-disorder-in-creation-language-and-society",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 12:22-30",
+      "description": "Jesus' statement about not worrying appeals to God's provision within nature",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 1",
+      "description": "Jesus is the logical ordering principle of creation; freedom is living in line with this ordering",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 1:3",
+      "description": "Jesus is the rational divine mind behind the order in creation",
+      "links": [
+        {
+          "articleId": "366",
+          "articleSlug": "366-the-roots-of-order-in-the-natural-sciences",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 3:16",
+      "description": "God's love extends beyond human beings to encompass the cosmos",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 6:15",
+      "description": "Jesus refused an attempt to overthrow Roman rule with violence",
+      "links": [
+        {
+          "articleId": "1072",
+          "articleSlug": "1072-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 8:32",
+      "description": "The truth sets us free",
+      "links": [
+        {
+          "articleId": "387",
+          "articleSlug": "387-gods-moral-order-and-the-limits-of-positive-law",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 1:5",
+      "description": "Apostleship is given by Christ, rather than being something a person can claim due to their own status",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 1:20-27",
+      "description": "Paul's moral teaching builds on an argument from nature, which is influenced by Stoic philosophy",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 2:14-15a",
+      "description": "Gentiles show an awareness of God's law without having heard it, showing it is written on their hearts",
+      "links": [
+        {
+          "articleId": "193",
+          "articleSlug": "193-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 2:14-15a",
+      "description": "This passage about natural law indicates the possibility of a fruitful exchange between worldviews; we have something to learn from other perspectives",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 2:14-15a",
+      "description": "Paul appeals to natural law",
+      "links": [
+        {
+          "articleId": "333",
+          "articleSlug": "333-created-order-social-sciences",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 3:23",
+      "description": "All humans are affected by sin and its effects on our ability to discern truth",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 3:23",
+      "description": "The universality of sin means we must be careful to look beyond our own ideology when seeking truth",
+      "links": [
+        {
+          "articleId": "369",
+          "articleSlug": "369-not-the-world-we-ordered-international-relations-and-the-ukraine-war",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 5:8",
+      "description": "Paul speaks of God as being love",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 8",
+      "description": "The natural world cries out to God in longing for its deliverance",
+      "links": [
+        {
+          "articleId": "316",
+          "articleSlug": "316-created-order-humanities",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 8:28-30",
+      "description": "God's sovereign will predestines but does not predetermine",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13",
+      "description": "God requires those in government to serve the people and the common good",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13",
+      "description": "Magistrates are servants of God; their authority is subordinate to God's authority",
+      "links": [
+        {
+          "articleId": "374",
+          "articleSlug": "374-covenant-orders",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 11:4-16",
+      "description": "Paul's moral teaching builds on an argument from nature, which is influenced by Stoic philosophy",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 11:8-9",
+      "description": "Paul connects his argument from nature with a reading of the Old Testament",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 11:14-15",
+      "description": "Paul's claim that it is natural for men to have short hair and women to have long hair appears to be normalising the practices of his own cultural context",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 12-14",
+      "description": "The giving of spiritual gifts irrespective of the recipients' social status has a profoundly democratising effect on the church",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 12",
+      "description": "Paul's theology of the body of Christ has a profoundly equalising effect",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 12:12-25",
+      "description": "Paul's analogy of the body to describe the church entails both equality and hierarchy",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Galatians",
+      "reference": "Galatians 1:14",
+      "description": "Paul's persecution of Christians illustrates the danger of having religious zeal without love",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Galatians",
+      "reference": "Galatians 2:19",
+      "description": "Baptism signifies the believer's dying and rising with Christ",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Galatians",
+      "reference": "Galatians 3:28",
+      "description": "Paul teaches that all members of Christ's body are equal and are one",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Ephesians",
+      "reference": "Ephesians 5:22-6:9",
+      "description": "The household codes borrow from Roman morality",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Philippians",
+      "reference": "Philippians 2:5-7",
+      "description": "Christianity commands those in any kind of authority to act with service and humility, like Jesus",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Philippians",
+      "reference": "Philippians 3:6",
+      "description": "Paul's persecution of Christians illustrates the danger of having religious zeal without love",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Colossians",
+      "reference": "Colossians 1:15-17",
+      "description": "Jesus is the rational divine mind behind the order in creation",
+      "links": [
+        {
+          "articleId": "366",
+          "articleSlug": "366-the-roots-of-order-in-the-natural-sciences",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Colossians",
+      "reference": "Colossians 3:18-4:1",
+      "description": "The household codes borrow from Roman morality",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Thessalonians",
+      "reference": "1 Thessalonians 4",
+      "description": "God's will is for our salvation and sanctification",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Timothy",
+      "reference": "1 Timothy 2:11-14",
+      "description": "Paul's moral teaching builds on an argument from nature, which is influenced by Stoic philosophy",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "1 Timothy",
+      "reference": "1 Timothy 2:13-15",
+      "description": "Paul connects his argument from nature with a reading of the Old Testament",
+      "links": [
+        {
+          "articleId": "319",
+          "articleSlug": "319-created-order-theology",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Philemon",
+      "reference": "Philemon 1:15-16",
+      "description": "Paul urges Philemon to receive his slave Onesimus as a brother, which means to treat him as an equal",
+      "links": [
+        {
+          "articleId": "1072",
+          "articleSlug": "1072-created-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "Philemon",
+      "reference": "Philemon 1:16",
+      "description": "Paul urges Philemon to receive his slave Onesimus as a brother",
+      "links": [
+        {
+          "articleId": "218",
+          "articleSlug": "218-order",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Created Order",
+      "testament": "New Testament",
+      "book": "James",
+      "reference": "James 2:14",
+      "description": "Faith that divides belief from practice is misguided",
+      "links": [
+        {
+          "articleId": "379",
+          "articleSlug": "379-the-created-universe-and-naturalistic-cosmos-a-cross-cultural-conversation-with-a-chinese-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis",
+      "description": "Celebrating the natural world",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis",
+      "description": "The story of Babel championing linguistic diversity",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis",
+      "description": "On God's creation being very good, and human's covenantal responsibility to steward creation",
+      "links": [
+        {
+          "articleId": "195",
+          "articleSlug": "195-climate-change-justice",
+          "section": "first-order-justice-in-environmental-economics",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 1",
+      "description": "God's unstinting abundant creation",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 1:31",
+      "description": "The original creations as the exemplar of just state of affairs",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 3:14-19",
+      "description": "The consequences of the fall as an example of second order justice: the fall from primordial goodness of creation necessitates judgment",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 11",
+      "description": "The story of Babel, championing linguistic diversity",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "babel-and-pentecost",
+          "sectionAnchor": "3title8"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Genesis",
+      "reference": "Genesis 12",
+      "description": "On righteousness as a theological not moral conception: people set right before God in Abrahamic covenant",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Exodus",
+      "reference": "Exodus 18:12-23",
+      "description": "On requiring judges to be capable, God-fearing, trustworthy and averse to dishonest gain",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Exodus",
+      "reference": "Exodus 20:5",
+      "description": "On punishing sons for the sin of fathers, a prima facie challenge to the idea that God abides by the principle of justice",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "does-god-render-to-each-according-to-his-right",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Exodus",
+      "reference": "Exodus 21:23-24",
+      "description": "On the concern of proportionality in justice",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "ot-and-correct-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Exodus",
+      "reference": "Exodus 23:2",
+      "description": "On second-order justice (mishpat) and righteousness (tsedaqah) in the courts",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "ot-and-correct-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus",
+      "description": "On second-order justice in the courts",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus",
+      "description": "On the Sabbath and treating nature justly",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus",
+      "description": "On first love command",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 18",
+      "description": "The command to love your neighbors",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "three-frames-for-conversing-with-other-disciplines",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 19:9-10",
+      "description": "On the implicit right to food through the provision of gleaning",
+      "links": [
+        {
+          "articleId": "175",
+          "articleSlug": "175-economic-justice-and-the-politics-of-redistribution",
+          "section": "in-economic-and-social-policy",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 19:15",
+      "description": "On loving by acting justly",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 19:15",
+      "description": "On second-order justice (mishpat) and righteousness (tsedaqah) in the courts",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "ot-and-correct-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 19:18",
+      "description": "On the first love commandment",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        },
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "uneasiness-with-thought-and-talk-about-rights",
+          "sectionAnchor": "2title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 19:18",
+      "description": "On loving the other beyond duty and law",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 20, 4",
+      "description": "On justice in judicial proceedings",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 25",
+      "description": "The principle of Jubilee as a safeguard against excessive agricultural property and permanent alienation from economic resources",
+      "links": [
+        {
+          "articleId": "175",
+          "articleSlug": "175-economic-justice-and-the-politics-of-redistribution",
+          "section": "in-economic-and-social-policy",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Leviticus",
+      "reference": "Leviticus 25:8-22",
+      "description": "On the Jubilee and treating nature justly",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "just-treatment-of-nature",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 1:16-17",
+      "description": "On second-order justice (mishpat) and righteousness (tsedaqah) in the courts",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "ot-and-correct-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 1:16",
+      "description": "On the requirement on kings and judges to enact just judgment",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 5:12-14",
+      "description": "On the Sabbath and treating nature justly",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "just-treatment-of-nature",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 6:5",
+      "description": "On the first love command",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 16:18-20",
+      "description": "On justice in judicial proceedings",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "two-types-of-justice",
+          "sectionAnchor": "2title3"
+        },
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 24:16",
+      "description": "On the concern of proportionality in justice, inherited or transferable guilt",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "ot-and-correct-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 32:4",
+      "description": "On justice as an attribute of God",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Deuteronomy",
+      "reference": "Deuteronomy 32:4",
+      "description": "On what justice (mishpat/krima) mean in the OT: justice as an attribute of God",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Judges",
+      "reference": "Judges 12",
+      "description": "The story of shibboleth, on identifying and killing Ephraimites based on their language",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "iconization",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Judges",
+      "reference": "Judges 12",
+      "description": "On linguistic discrimination against the minority Ephraimites",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "iconization",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "2 Samuel",
+      "reference": "2 Samuel 8:15",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on David",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "1 Kings",
+      "reference": "1 Kings 10:9",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on Solomon",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "2 Kings",
+      "reference": "2 Kings 23:25-26",
+      "description": "Challenge to the idea that God abides by the principle of justice",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "does-god-render-to-each-according-to-his-right",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "2 Chronicles",
+      "reference": "2 Chronicles 9:8",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on Solomon",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "2 Chronicles",
+      "reference": "2 Chronicles 12:6",
+      "description": "On justice as God's concern for all",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "2 Chronicles",
+      "reference": "2 Chronicles 18:14",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on David",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Nehemiah",
+      "reference": "Nehemiah 9:33",
+      "description": "On justice as God's concern for all",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Job",
+      "reference": "Job 29:16, 31:21",
+      "description": "On what righteousness (tzedek/dikaiousune) mean in the OT: righteousness as a relationship with God which leads to flourishing",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 8",
+      "description": "Celebrating the natural world",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 37:28",
+      "description": "God's people are expected to act justly in obedience to the covenant",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 62",
+      "description": "On God's mercy",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "does-god-render-to-each-according-to-his-right",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 65:9-13, 95:4-5, 96:1-6, 104",
+      "description": "Natural world as God's excellences and gifts",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 67:4, 96:13, 98:9",
+      "description": "On justice as an attribute of God",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 72",
+      "description": "On good kingship",
+      "links": [
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "7-in-the-biblical-understanding-of-justice-securing-justice-in-society-is-central-to-the-god-given-task-of-government",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 96:7-8",
+      "description": "On justice as worshipping God and giving God what is due God",
+      "links": [
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "8-in-the-biblical-understanding-of-justice-to-worship-god-is-to-render-to-god-what-is-due-god-to-render-to-god-what-justice-requires",
+          "sectionAnchor": "3title8"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 99:4",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on king Messiah",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Psalm(s)",
+      "reference": "Psalm(s) 106:3",
+      "description": "As justice in our ordinary affairs; on doing justice and showing mercy in disasters",
+      "links": [
+        {
+          "articleId": "177",
+          "articleSlug": "177-justice-rights-and-the-quest-to-reduce-the-risk-of-disasters",
+          "section": "on-the-challenge-of-balancing-providing-kindness-mercy-and-doing-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Proverbs",
+      "reference": "Proverbs 8:18, 114:23, 31:9",
+      "description": "On what righteousness (tzedek/dikaiousune) mean in the OT: righteousness as a relationship with God which leads to flourishing",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Proverbs",
+      "reference": "Proverbs 28:5",
+      "description": "God's people are expected to act justly in obedience to the covenant",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 1:27",
+      "description": "On redeeming Zion with justice",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 12:16-17",
+      "description": "On justice and shalom",
+      "links": [
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "3-another-distinctive-feature-of-how-justice-figures-in-the-hebrew-bible-old-testament-is-that-over-and-over-the-writers-connect-justice-with-what-they-call-in-hebrew-shalom-for-example-isaiah-12-16-17",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 28:6",
+      "description": "On justice as an attribute of God",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 33:5",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on God",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 51:4-5",
+      "description": "On what justice (mishpat/krima) mean in the OT: justice as an attribute of God, on God's justice extended to all nations",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 58:6-7",
+      "description": "On God's demand for justice",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "4-in-the-biblical-understanding-of-justice-justice-is-an-intrinsic-component-of-what-the-new-testament-writers-call-the-kingdom-of-god",
+          "sectionAnchor": "3title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 61:3",
+      "description": "On building epistemic justice as good news for the oppressed",
+      "links": [
+        {
+          "articleId": "181",
+          "articleSlug": "181-epistemic-injustice",
+          "section": "promoting-epistemic-justice",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 61:8",
+      "description": "On the love of the Lord for justice",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "justice-in-context",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Isaiah",
+      "reference": "Isaiah 61:8",
+      "description": "On justice orientations to institutions",
+      "links": [
+        {
+          "articleId": "169",
+          "articleSlug": "169-justice-in-transnational-legal-orders",
+          "section": "tlos-warrant-theological-appraisal-in-terms-of-justice-and-rights",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah",
+      "description": "On second-order justice in the courts",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah",
+      "description": "On loving by acting justly",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah",
+      "description": "On first love commandment",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah",
+      "description": "On loving the other beyond duty and law",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah",
+      "description": "On the Jubilee and treating nature justly",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah 9:24",
+      "description": "On justice as an attribute of God",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "toward-a-biblical-theology-of-justice",
+          "sectionAnchor": "3title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah 9:24",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on God",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah 23:5, 33:15",
+      "description": "On the intimate association between judgment (mishpat) and justice (tsedaqah) being instantiated on king Messiah",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Jeremiah",
+      "reference": "Jeremiah 31:28-30",
+      "description": "On the claim that 'our fathers sinned but only we are punished'",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "does-god-render-to-each-according-to-his-right",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Ezekiel",
+      "reference": "Ezekiel 18",
+      "description": "On the claim that 'our fathers sinned but only we are punished'",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "does-god-render-to-each-according-to-his-right",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Ezekiel",
+      "reference": "Ezekiel 34:16",
+      "description": "On what justice (mishpat/krima) mean in the OT: justice as an attribute of God",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "three-frames-for-conversing-with-other-disciplines",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Amos",
+      "reference": "Amos",
+      "description": "As a lens for thinking Christianly about international justice",
+      "links": [
+        {
+          "articleId": "180",
+          "articleSlug": "180-justice-in-international-relations-vaccine-nationalism-during-covid-19",
+          "section": "why-christians-should-widen-their-horizons",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Amos",
+      "reference": "Amos 5:24",
+      "description": "On the relationship between justice and judgment",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Micah",
+      "reference": "Micah 4:4",
+      "description": "On the relationship between economic security to property ownership",
+      "links": [
+        {
+          "articleId": "175",
+          "articleSlug": "175-economic-justice-and-the-politics-of-redistribution",
+          "section": "in-economic-and-social-policy",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Micah",
+      "reference": "Micah 6",
+      "description": "On the challenge to balance both the need to do justice and provide loving kindness",
+      "links": [
+        {
+          "articleId": "177",
+          "articleSlug": "177-justice-rights-and-the-quest-to-reduce-the-risk-of-disasters",
+          "section": "on-the-challenge-of-balancing-providing-kindness-mercy-and-doing-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Micah",
+      "reference": "Micah 6:8",
+      "description": "On 'mishpat' referring to first order justice",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "ot-and-correct-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Micah",
+      "reference": "Micah 6:8",
+      "description": "On social systemic justice",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "justice-in-context",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Micah",
+      "reference": "Micah 7:1",
+      "description": "Laws and social practices of Israel almost always refers to social (systemic) justice and injustice",
+      "links": [
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "5-when-the-biblical-writers-speak-of-justice-and-injustice-it-is-almost-always-social-systemic-justice-and-injustice-that-they-have-in-mind",
+          "sectionAnchor": "3title5"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Habakkuk",
+      "reference": "Habakkuk 1:1-4",
+      "description": "On why God's righteous ones suffer",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "Old Testament",
+      "book": "Habakkuk",
+      "reference": "Habakkuk 2:3-4",
+      "description": "On contextual meanings of 'righteousness' in OT",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 5-7",
+      "description": "On the pursuit of righteousness as a feature of the inner life of God's people",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 5:1-12",
+      "description": "Beatitudes: peace-making better than pursuing rights in some legal contexts",
+      "links": [
+        {
+          "articleId": "170",
+          "articleSlug": "170-justice-rights-and-family-relationships",
+          "section": "justice-relationships-and-peace-making",
+          "sectionAnchor": "2title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 5:6",
+      "description": "On 'righteousness' better translated as 'justice'",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "a-matter-of-translation",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 5:6",
+      "description": "On different contextual reading of hungering for righteousness compared to Luke 7:21",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 10:8",
+      "description": "On healing the sick beyond the requirement of justice",
+      "links": [
+        {
+          "articleId": "162",
+          "articleSlug": "162-justice-rights-and-psychiatry",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 12:17-20",
+      "description": "On Jesus' ministry of justice",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        },
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "4-in-the-biblical-understanding-of-justice-justice-is-an-intrinsic-component-of-what-the-new-testament-writers-call-the-kingdom-of-god",
+          "sectionAnchor": "3title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 22:34-40",
+      "description": "On the two love commands",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 22:34-40",
+      "description": "All of justice hangs on love",
+      "links": [
+        {
+          "articleId": "171",
+          "articleSlug": "171-love-as-the-foundation-for-christian-justice",
+          "section": "jesus-situates-justice-on-love",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 22:37-40",
+      "description": "Love of God and love of neighbor is the foundation of all of the law, of all of ethics",
+      "links": [
+        {
+          "articleId": "196",
+          "articleSlug": "196-justice-and-public-health",
+          "section": "health-and-wholeness-require-love",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 25:31-46",
+      "description": "The parable of Sheep and Goats, condemnation for doing nothing, not acting justly",
+      "links": [
+        {
+          "articleId": "158",
+          "articleSlug": "158-from-individual-entitlements-to-collective-excellences-the-obligations-of-justice-for-colombias-displaced-persons",
+          "section": "love-is-not-optional",
+          "sectionAnchor": "3title5"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Matthew",
+      "reference": "Matthew 26:73",
+      "description": "On Peter's accent giving him away near Jesus' trial",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "jesus-and-linguistic-discrimination",
+          "sectionAnchor": "3title5"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Mark",
+      "reference": "Mark 9:40",
+      "description": "On our participation with God in bringing justice to the world",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Mark",
+      "reference": "Mark 12:28-34",
+      "description": "On the two love commands",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 2:14, 4:18",
+      "description": "On socio-political transformation through the gospel",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 4",
+      "description": "On Jesus' proclamation of justice",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 4",
+      "description": "On justice orientations to institutions of TLOs",
+      "links": [
+        {
+          "articleId": "169",
+          "articleSlug": "169-justice-in-transnational-legal-orders",
+          "section": "tlos-warrant-theological-appraisal-in-terms-of-justice-and-rights",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 4:16-21",
+      "description": "On Jesus construing his ministry as entailing justice",
+      "links": [
+        {
+          "articleId": "158",
+          "articleSlug": "158-from-individual-entitlements-to-collective-excellences-the-obligations-of-justice-for-colombias-displaced-persons",
+          "section": "love-is-not-optional",
+          "sectionAnchor": "3title5"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 4:18-21",
+      "description": "Justice and the Kingdom of God",
+      "links": [
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "4-in-the-biblical-understanding-of-justice-justice-is-an-intrinsic-component-of-what-the-new-testament-writers-call-the-kingdom-of-god",
+          "sectionAnchor": "3title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 6:21, 24-5",
+      "description": "On the blessings due those in an unjust social system",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 7:21",
+      "description": "On different contextual reading of hungering for righteousness than Mat 5:6",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 10:25-37",
+      "description": "Martin Luther King's interpretation on fixing the Jericho Road",
+      "links": [
+        {
+          "articleId": "177",
+          "articleSlug": "177-justice-rights-and-the-quest-to-reduce-the-risk-of-disasters",
+          "section": "on-the-challenge-of-balancing-providing-kindness-mercy-and-doing-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 10:25-37",
+      "description": "On how to avoid behaving like priests and Levites, acting unjustly, directly or indirectly",
+      "links": [
+        {
+          "articleId": "173",
+          "articleSlug": "173-two-thoughts-on-justice-rights-and-the-academy",
+          "section": "are-rights-enough",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 10:25-37",
+      "description": "On the two love commands",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "why-the-de-justicizing-interpretation-of-the-new-testament",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 10:25-37",
+      "description": "The parable of Good Samaritan and its application to disaster relief",
+      "links": [
+        {
+          "articleId": "177",
+          "articleSlug": "177-justice-rights-and-the-quest-to-reduce-the-risk-of-disasters",
+          "section": "on-the-challenge-of-balancing-providing-kindness-mercy-and-doing-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Luke",
+      "reference": "Luke 20:25",
+      "description": "On complex space and the inherent freedom of communities to associate and govern themselves",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 1:14, 14:6",
+      "description": "On truth as an attribute of Jesus",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 1:46",
+      "description": "On linguistic injustice and derogated regional accents of Jesus and the disciples",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "jesus-and-linguistic-discrimination",
+          "sectionAnchor": "3title5"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "John",
+      "reference": "John 13:30",
+      "description": "To be just one must be loving",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Acts",
+      "reference": "Acts 2",
+      "description": "Pentecost as the affirmation of linguistic identity",
+      "links": [
+        {
+          "articleId": "183",
+          "articleSlug": "183-linguistic-justice",
+          "section": "pentecost",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Acts",
+      "reference": "Acts 4:19, 5:29",
+      "description": "On obeying God rather than men when our obligations to God and men conflict",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 1:16-17",
+      "description": "On the virtue of justice and our need to recover to it in and through the Gospel",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 1:17",
+      "description": "On contextual meanings of 'righteousness' in NT",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 1:17",
+      "description": "On the main theme of Romans, not righteousness but justice",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "a-matter-of-translation",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 2:6, 11, 13, 14-15, 26-29",
+      "description": "Pauline Dilemma between faith and works",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "a-pauline-dilemma-regarding-judgment-according-to-works",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 2:11",
+      "description": "On God's impartiality, acting justly",
+      "links": [
+        {
+          "articleId": "99",
+          "articleSlug": "99-justice-and-rights",
+          "section": "a-matter-of-translation",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 3:19-20, 5:13, 5:20, 7:1, 7:8,9,11",
+      "description": "On what the works of Law and circumcision 'in the letter' entails",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "justification-is-not-through-what-the-law-does",
+          "sectionAnchor": "2title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 3:20, 24",
+      "description": "On God not abiding by the principles of justice, but mercy and grace",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "",
+          "sectionAnchor": ""
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 3:23",
+      "description": "Sin as injustice and falling short of God's intention for creation: perfect beauty",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "three-frames-for-conversing-with-other-disciplines",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 4",
+      "description": "On righteousness as a theological not moral conception: people set right before God in Abrahamic covenant",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 8:4",
+      "description": "Justification through the spirit",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "justification-is-not-through-what-the-law-does",
+          "sectionAnchor": "2title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 12:1-2",
+      "description": "Using biblical principles to transform our world towards justice",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13:1-4",
+      "description": "On the tasks and duties of good government",
+      "links": [
+        {
+          "articleId": "210",
+          "articleSlug": "210-justice",
+          "section": "7-in-the-biblical-understanding-of-justice-securing-justice-in-society-is-central-to-the-god-given-task-of-government",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13:1-7",
+      "description": "On submitting to authorities because they are instituted by God",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13:4",
+      "description": "On rulers being servants of God and responsible to judge justly against wrongdoers",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "justice-judgment-and-virtue",
+          "sectionAnchor": "3title9"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13:9-10",
+      "description": "Love of God and love of neighbor is the foundation of all of the law, of all of ethics",
+      "links": [
+        {
+          "articleId": "196",
+          "articleSlug": "196-justice-and-public-health",
+          "section": "health-and-wholeness-require-love",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Romans",
+      "reference": "Romans 13:18",
+      "description": "Love is the basis on which we act justly",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "justice-applied-to-the-academy",
+          "sectionAnchor": "3title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 5:8",
+      "description": "On truth as a virtue enjoined on Christians",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "1 Corinthians",
+      "reference": "1 Corinthians 13",
+      "description": "A theory of love as the basis for justice",
+      "links": [
+        {
+          "articleId": "171",
+          "articleSlug": "171-love-as-the-foundation-for-christian-justice",
+          "section": "jesus-situates-justice-on-love",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "2 Corinthians",
+      "reference": "2 Corinthians 3:3, 6",
+      "description": "On the 'works of the law' and the circumcision 'in the letter'",
+      "links": [
+        {
+          "articleId": "168",
+          "articleSlug": "168-the-justice-of-god",
+          "section": "justification-is-not-through-what-the-law-does",
+          "sectionAnchor": "2title4"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "2 Corinthians",
+      "reference": "2 Corinthians 5:20",
+      "description": "On Christians being ambassadors of the kingdom of heaven and owing the highest allegiance to Jesus",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "2 Corinthians",
+      "reference": "2 Corinthians 6:7",
+      "description": "On truth as a virtue enjoined on Christians",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Galatians",
+      "reference": "Galatians 3",
+      "description": "On righteousness as a theological not moral conception: people set right before God in Abrahamic covenant",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Galatians",
+      "reference": "Galatians 3:11",
+      "description": "On contextual meanings of 'righteousness' in NT",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Ephesians",
+      "reference": "Ephesians 2:12, 19",
+      "description": "On heavenly citizenship",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Ephesians",
+      "reference": "Ephesians 4:24",
+      "description": "On truth as a virtue enjoined on Christians",
+      "links": [
+        {
+          "articleId": "160",
+          "articleSlug": "160-doing-justice-to-nature-in-science",
+          "section": "justice-in-science",
+          "sectionAnchor": "2title2"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Ephesians",
+      "reference": "Ephesians 6:20",
+      "description": "On Christians being ambassadors of the kingdom of heaven and owing the highest allegiance to Jesus",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Philippians",
+      "reference": "Philippians 3:20",
+      "description": "On heavenly citizenship",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "1 Timothy",
+      "reference": "1 Timothy 6:15",
+      "description": "On Jesus being the king of kings and lord of lords thus deserving of our highest allegiance",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Hebrews",
+      "reference": "Hebrews 10:37-38",
+      "description": "On contextual meanings of 'righteousness' in NT",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "bringing-social-political-transformation-through-the-gospel",
+          "sectionAnchor": "3title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "James",
+      "reference": "James 1-5",
+      "description": "On justice for agricultural producers",
+      "links": [
+        {
+          "articleId": "177",
+          "articleSlug": "177-justice-rights-and-the-quest-to-reduce-the-risk-of-disasters",
+          "section": "on-the-challenge-of-balancing-providing-kindness-mercy-and-doing-justice",
+          "sectionAnchor": "2title1"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "1 Peter",
+      "reference": "1 Peter 1:1, 2:11",
+      "description": "On heavenly citizenship",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "1 Peter",
+      "reference": "1 Peter 2:13-14",
+      "description": "On submitting to authorities because they are instituted by God",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "1 Peter",
+      "reference": "1 Peter 2:17",
+      "description": "On honor, love, fear of God being expressions of justice",
+      "links": [
+        {
+          "articleId": "161",
+          "articleSlug": "161-a-contextual-interpretation-of-justice-and-righteousness-by-a-biblical-theologian",
+          "section": "three-frames-for-conversing-with-other-disciplines",
+          "sectionAnchor": "2title3"
+        }
+      ]
+    },
+    {
+      "dialogue": "Justice",
+      "testament": "New Testament",
+      "book": "Revelation",
+      "reference": "Revelation 17:14, 19:16",
+      "description": "On Jesus being the king of kings and lord of lords thus deserving of our highest allegiance",
+      "links": [
+        {
+          "articleId": "182",
+          "articleSlug": "182-justice-judgment-and-virtue-in-the-law",
+          "section": "simple-space-or-complex-space",
+          "sectionAnchor": "3title7"
+        }
+      ]
+    }
+  ]
+}
