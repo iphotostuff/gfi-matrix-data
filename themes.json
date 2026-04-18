@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "theme": "Scripture & Theology",
+    "theme": "Scripture & theology",
     "subThemes": [
       {
         "id": "1.1",
-        "subTheme": "Creation & Moral Order",
+        "subTheme": "Creation & moral order",
         "topicIds": [
           "topic-0027",
           "topic-0028",
@@ -52,7 +52,7 @@
       },
       {
         "id": "1.2",
-        "subTheme": "Christian Thought & Tradition",
+        "subTheme": "Christian thought & tradition",
         "topicIds": [
           "topic-0036",
           "topic-0037",
@@ -87,7 +87,7 @@
       },
       {
         "id": "1.3",
-        "subTheme": "Classical & Medieval Philosophy",
+        "subTheme": "Classical & medieval philosophy",
         "topicIds": [
           "topic-0104",
           "topic-0116",
@@ -118,7 +118,7 @@
       },
       {
         "id": "1.4",
-        "subTheme": "Sin, Evil & Salvation",
+        "subTheme": "Sin, evil & salvation",
         "topicIds": [
           "topic-0055",
           "topic-0056",
@@ -138,11 +138,11 @@
   },
   {
     "id": 2,
-    "theme": "Love, Mercy & Shalom",
+    "theme": "Love, mercy & shalom",
     "subThemes": [
       {
         "id": "2.1",
-        "subTheme": "Love as Theology",
+        "subTheme": "Love as theology",
         "topicIds": [
           "topic-0424",
           "topic-0426",
@@ -187,7 +187,7 @@
       },
       {
         "id": "2.2",
-        "subTheme": "Love in Practice",
+        "subTheme": "Love in practice",
         "topicIds": [
           "topic-0009",
           "topic-0425",
@@ -220,7 +220,7 @@
       },
       {
         "id": "2.3",
-        "subTheme": "Mercy, Shalom & Righteousness",
+        "subTheme": "Mercy, shalom & righteousness",
         "topicIds": [
           "topic-0101",
           "topic-0102",
@@ -248,7 +248,7 @@
       },
       {
         "id": "2.4",
-        "subTheme": "Love & Justice",
+        "subTheme": "Love & justice",
         "topicIds": [
           "topic-0427",
           "topic-0429",
@@ -266,7 +266,7 @@
       },
       {
         "id": "2.5",
-        "subTheme": "Love & Markets",
+        "subTheme": "Love & markets",
         "topicIds": [
           "topic-0807",
           "topic-0808",
@@ -284,11 +284,11 @@
   },
   {
     "id": 3,
-    "theme": "Law, Rights & Justice",
+    "theme": "Law, rights & justice",
     "subThemes": [
       {
         "id": "3.1",
-        "subTheme": "Rights, Duties & Dignity",
+        "subTheme": "Rights, duties & dignity",
         "topicIds": [
           "topic-0017",
           "topic-0019",
@@ -337,7 +337,7 @@
       },
       {
         "id": "3.2",
-        "subTheme": "Promoting & Practicing Justice",
+        "subTheme": "Promoting & practicing justice",
         "topicIds": [
           "topic-0292",
           "topic-0293",
@@ -385,7 +385,7 @@
       },
       {
         "id": "3.3",
-        "subTheme": "Justice Concepts",
+        "subTheme": "Justice concepts",
         "topicIds": [
           "topic-0317",
           "topic-0318",
@@ -401,7 +401,7 @@
       },
       {
         "id": "3.4",
-        "subTheme": "Biblical & Theological Justice",
+        "subTheme": "Biblical & theological justice",
         "topicIds": [
           "topic-0345",
           "topic-0346",
@@ -448,7 +448,7 @@
       },
       {
         "id": "3.5",
-        "subTheme": "Types of Justice",
+        "subTheme": "Types of justice",
         "topicIds": [
           "topic-0312",
           "topic-0313",
@@ -495,7 +495,7 @@
       },
       {
         "id": "3.6",
-        "subTheme": "Forms of Injustice",
+        "subTheme": "Forms of injustice",
         "topicIds": [
           "topic-0019",
           "topic-0021",
@@ -540,7 +540,7 @@
       },
       {
         "id": "3.7",
-        "subTheme": "Justice & Health",
+        "subTheme": "Justice & health",
         "topicIds": [
           "topic-0496",
           "topic-0498",
@@ -573,7 +573,7 @@
       },
       {
         "id": "3.8",
-        "subTheme": "Justice & Economics",
+        "subTheme": "Justice & economics",
         "topicIds": [
           "topic-0492",
           "topic-0494",
@@ -594,7 +594,7 @@
       },
       {
         "id": "3.9",
-        "subTheme": "Justice & Science",
+        "subTheme": "Justice & science",
         "topicIds": [
           "topic-0493",
           "topic-0537",
@@ -617,7 +617,7 @@
       },
       {
         "id": "3.10",
-        "subTheme": "Justice & Culture",
+        "subTheme": "Justice & culture",
         "topicIds": [
           "topic-0547",
           "topic-0568",
@@ -634,7 +634,7 @@
       },
       {
         "id": "3.11",
-        "subTheme": "Justice in the World",
+        "subTheme": "Justice in the world",
         "topicIds": [
           "topic-0294",
           "topic-0299",
@@ -653,7 +653,7 @@
       },
       {
         "id": "3.12",
-        "subTheme": "Family, Gender & Sexuality",
+        "subTheme": "Family, gender & sexuality",
         "topicIds": [
           "topic-0009",
           "topic-0021",
@@ -677,7 +677,7 @@
       },
       {
         "id": "3.13",
-        "subTheme": "Law & Legal Systems",
+        "subTheme": "Law & legal systems",
         "topicIds": [
           "topic-0101",
           "topic-0104",
@@ -697,7 +697,7 @@
       },
       {
         "id": "3.14",
-        "subTheme": "Restorative Justice",
+        "subTheme": "Restorative justice",
         "topicIds": [
           "topic-0319",
           "topic-0320",
@@ -720,11 +720,11 @@
   },
   {
     "id": 4,
-    "theme": "Ethics & Virtue",
+    "theme": "Ethics & virtue",
     "subThemes": [
       {
         "id": "4.1",
-        "subTheme": "Flourishing & the Good Life",
+        "subTheme": "Flourishing & the Good life",
         "topicIds": [
           "topic-0048",
           "topic-0049",
@@ -780,7 +780,7 @@
       },
       {
         "id": "4.2",
-        "subTheme": "Virtue Theory",
+        "subTheme": "Virtue theory",
         "topicIds": [
           "topic-0438",
           "topic-0439",
@@ -822,7 +822,7 @@
       },
       {
         "id": "4.3",
-        "subTheme": "Specific Virtues",
+        "subTheme": "Specific virtues",
         "topicIds": [
           "topic-0236",
           "topic-0239",
@@ -861,7 +861,7 @@
       },
       {
         "id": "4.4",
-        "subTheme": "Virtue in the Academy",
+        "subTheme": "Virtue in the academy",
         "topicIds": [
           "topic-0025",
           "topic-0233",
@@ -898,7 +898,7 @@
       },
       {
         "id": "4.5",
-        "subTheme": "Virtue in Practice",
+        "subTheme": "Virtue in practice",
         "topicIds": [
           "topic-0140",
           "topic-0236",
@@ -928,7 +928,7 @@
       },
       {
         "id": "4.6",
-        "subTheme": "Virtue in Law & Politics",
+        "subTheme": "Virtue in law & politics",
         "topicIds": [
           "topic-0656",
           "topic-0683",
@@ -943,7 +943,7 @@
       },
       {
         "id": "4.7",
-        "subTheme": "Virtue in Healthcare",
+        "subTheme": "Virtue in healthcare",
         "topicIds": [
           "topic-0660",
           "topic-0661",
@@ -955,7 +955,7 @@
       },
       {
         "id": "4.8",
-        "subTheme": "Virtue Formation & Development",
+        "subTheme": "Virtue formation & development",
         "topicIds": [
           "topic-0679",
           "topic-0682",
@@ -984,7 +984,7 @@
       },
       {
         "id": "4.9",
-        "subTheme": "Moral Philosophy",
+        "subTheme": "Moral philosophy",
         "topicIds": [
           "topic-0074",
           "topic-0075",
@@ -1012,7 +1012,7 @@
       },
       {
         "id": "4.10",
-        "subTheme": "Flourishing in Practice",
+        "subTheme": "Flourishing in practice",
         "topicIds": [
           "topic-0744",
           "topic-0861",
@@ -1036,7 +1036,7 @@
       },
       {
         "id": "4.11",
-        "subTheme": "Cross-cultural Virtue",
+        "subTheme": "Cross-cultural virtue",
         "topicIds": [
           "topic-0635",
           "topic-0636",
@@ -1059,11 +1059,11 @@
   },
   {
     "id": 5,
-    "theme": "Society & Order",
+    "theme": "Society & order",
     "subThemes": [
       {
         "id": "5.1",
-        "subTheme": "Social Order",
+        "subTheme": "Social order",
         "topicIds": [
           "topic-0001",
           "topic-0002",
@@ -1112,7 +1112,7 @@
       },
       {
         "id": "5.2",
-        "subTheme": "Disorder & Disruption",
+        "subTheme": "Disorder & disruption",
         "topicIds": [
           "topic-0004",
           "topic-0006",
@@ -1147,7 +1147,7 @@
       },
       {
         "id": "5.3",
-        "subTheme": "Freedom & Postmodernism",
+        "subTheme": "Freedom & postmodernism",
         "topicIds": [
           "topic-0152",
           "topic-0153",
@@ -1173,11 +1173,11 @@
   },
   {
     "id": 6,
-    "theme": "Politics, Power & Conflict",
+    "theme": "Politics, power & conflict",
     "subThemes": [
       {
         "id": "6.1",
-        "subTheme": "Politics & Government",
+        "subTheme": "Politics & government",
         "topicIds": [
           "topic-0125",
           "topic-0126",
@@ -1206,7 +1206,7 @@
       },
       {
         "id": "6.2",
-        "subTheme": "International Relations",
+        "subTheme": "International relations",
         "topicIds": [
           "topic-0105",
           "topic-0125",
@@ -1233,7 +1233,7 @@
       },
       {
         "id": "6.3",
-        "subTheme": "Nationalism, Globalism & Governance",
+        "subTheme": "Nationalism, globalism & governance",
         "topicIds": [
           "topic-0302",
           "topic-0524",
@@ -1258,7 +1258,7 @@
       },
       {
         "id": "6.4",
-        "subTheme": "War, Peace & Conflict",
+        "subTheme": "War, peace & conflict",
         "topicIds": [
           "topic-0016",
           "topic-0024",
@@ -1284,11 +1284,11 @@
   },
   {
     "id": 7,
-    "theme": "Global Perspectives",
+    "theme": "Global perspectives",
     "subThemes": [
       {
         "id": "7.1",
-        "subTheme": "Language, Arts & Culture",
+        "subTheme": "Language, arts & culture",
         "topicIds": [
           "topic-0108",
           "topic-0225",
@@ -1323,7 +1323,7 @@
       },
       {
         "id": "7.2",
-        "subTheme": "Nations & Regions",
+        "subTheme": "Nations & regions",
         "topicIds": [
           "topic-0228",
           "topic-0280",
@@ -1384,11 +1384,11 @@
   },
   {
     "id": 8,
-    "theme": "The Academy & Education",
+    "theme": "The academy & education",
     "subThemes": [
       {
         "id": "8.1",
-        "subTheme": "Academic Disciplines",
+        "subTheme": "Academic disciplines",
         "topicIds": [
           "topic-0253",
           "topic-0254",
@@ -1431,7 +1431,7 @@
       },
       {
         "id": "8.2",
-        "subTheme": "Academic Vocation & Practice",
+        "subTheme": "Academic vocation & practice",
         "topicIds": [
           "topic-0250",
           "topic-0251",
@@ -1470,7 +1470,7 @@
       },
       {
         "id": "8.3",
-        "subTheme": "Truth & Knowledge",
+        "subTheme": "Truth & knowledge",
         "topicIds": [
           "topic-0020",
           "topic-0241",
@@ -1493,11 +1493,11 @@
   },
   {
     "id": 9,
-    "theme": "Health & Medicine",
+    "theme": "Health & medicine",
     "subThemes": [
       {
         "id": "9.1",
-        "subTheme": "Health & Wellbeing",
+        "subTheme": "Health & wellbeing",
         "topicIds": [
           "topic-0001",
           "topic-0013",
@@ -1544,7 +1544,7 @@
       },
       {
         "id": "9.2",
-        "subTheme": "Public Health & Pandemics",
+        "subTheme": "Public health & pandemics",
         "topicIds": [
           "topic-0005",
           "topic-0283",
@@ -1564,11 +1564,11 @@
   },
   {
     "id": 10,
-    "theme": "Economics & Poverty",
+    "theme": "Economics & poverty",
     "subThemes": [
       {
         "id": "10.1",
-        "subTheme": "Markets & Trade",
+        "subTheme": "Markets & trade",
         "topicIds": [
           "topic-0003",
           "topic-0130",
@@ -1617,7 +1617,7 @@
       },
       {
         "id": "10.2",
-        "subTheme": "Economic Thought",
+        "subTheme": "Economic thought",
         "topicIds": [
           "topic-0212",
           "topic-0214",
@@ -1640,7 +1640,7 @@
       },
       {
         "id": "10.3",
-        "subTheme": "Poverty & Inequality",
+        "subTheme": "Poverty & inequality",
         "topicIds": [
           "topic-0267",
           "topic-0275",
@@ -1666,11 +1666,11 @@
   },
   {
     "id": 11,
-    "theme": "Science & Technology",
+    "theme": "Science & technology",
     "subThemes": [
       {
         "id": "11.1",
-        "subTheme": "Nature, Environment & Climate",
+        "subTheme": "Nature, environment & climate",
         "topicIds": [
           "topic-0018",
           "topic-0117",
@@ -1700,7 +1700,7 @@
       },
       {
         "id": "11.2",
-        "subTheme": "AI & Technology",
+        "subTheme": "AI & technology",
         "topicIds": [
           "topic-0002",
           "topic-0007",
